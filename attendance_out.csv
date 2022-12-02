@@ -1,0 +1,2371 @@
+Date,Away,Home,Attendance,Type
+2021-04-01,Houston Astros,Oakland Athletics,10436,R
+2021-04-01,Arizona Diamondbacks,San Diego Padres,10350,R
+2021-04-01,San Francisco Giants,Seattle Mariners,8174,R
+2021-04-01,Atlanta Braves,Philadelphia Phillies,8529,R
+2021-04-01,Tampa Bay Rays,Miami Marlins,7062,R
+2021-04-01,Toronto Blue Jays,New York Yankees,10850,R
+2021-04-01,Minnesota Twins,Milwaukee Brewers,11740,R
+2021-04-01,Chicago White Sox,Los Angeles Angels,13207,R
+2021-04-01,Pittsburgh Pirates,Chicago Cubs,10343,R
+2021-04-01,St. Louis Cardinals,Cincinnati Reds,12264,R
+2021-04-01,Los Angeles Dodgers,Colorado Rockies,20570,R
+2021-04-01,Cleveland Indians,Detroit Tigers,8000,R
+2021-04-01,Texas Rangers,Kansas City Royals,9155,R
+2021-04-02,Houston Astros,Oakland Athletics,5446,R
+2021-04-02,Arizona Diamondbacks,San Diego Padres,10350,R
+2021-04-02,San Francisco Giants,Seattle Mariners,8392,R
+2021-04-02,Tampa Bay Rays,Miami Marlins,6115,R
+2021-04-02,Chicago White Sox,Los Angeles Angels,12763,R
+2021-04-02,Baltimore Orioles,Boston Red Sox,4452,R
+2021-04-02,Los Angeles Dodgers,Colorado Rockies,20363,R
+2021-04-03,Houston Astros,Oakland Athletics,5803,R
+2021-04-03,Arizona Diamondbacks,San Diego Padres,10350,R
+2021-04-03,San Francisco Giants,Seattle Mariners,8651,R
+2021-04-03,Atlanta Braves,Philadelphia Phillies,8582,R
+2021-04-03,Tampa Bay Rays,Miami Marlins,6179,R
+2021-04-03,Toronto Blue Jays,New York Yankees,10107,R
+2021-04-03,Minnesota Twins,Milwaukee Brewers,11383,R
+2021-04-03,Chicago White Sox,Los Angeles Angels,12043,R
+2021-04-03,Baltimore Orioles,Boston Red Sox,4571,R
+2021-04-03,Pittsburgh Pirates,Chicago Cubs,10343,R
+2021-04-03,St. Louis Cardinals,Cincinnati Reds,12213,R
+2021-04-03,Los Angeles Dodgers,Colorado Rockies,20688,R
+2021-04-03,Cleveland Indians,Detroit Tigers,8000,R
+2021-04-03,Texas Rangers,Kansas City Royals,8889,R
+2021-04-04,Houston Astros,Oakland Athletics,4504,R
+2021-04-04,Arizona Diamondbacks,San Diego Padres,10350,R
+2021-04-04,Atlanta Braves,Philadelphia Phillies,10773,R
+2021-04-04,Toronto Blue Jays,New York Yankees,10066,R
+2021-04-04,Minnesota Twins,Milwaukee Brewers,10666,R
+2021-04-04,Chicago White Sox,Los Angeles Angels,12396,R
+2021-04-04,Baltimore Orioles,Boston Red Sox,4458,R
+2021-04-04,Pittsburgh Pirates,Chicago Cubs,10343,R
+2021-04-04,St. Louis Cardinals,Cincinnati Reds,11629,R
+2021-04-04,Los Angeles Dodgers,Colorado Rockies,20368,R
+2021-04-04,Cleveland Indians,Detroit Tigers,8000,R
+2021-04-04,Texas Rangers,Kansas City Royals,8869,R
+2021-04-05,Los Angeles Dodgers,Oakland Athletics,6653,R
+2021-04-05,San Francisco Giants,San Diego Padres,10350,R
+2021-04-05,Chicago White Sox,Seattle Mariners,6436,R
+2021-04-05,Toronto Blue Jays,Texas Rangers,38238,R
+2021-04-05,New York Mets,Philadelphia Phillies,10782,R
+2021-04-05,St. Louis Cardinals,Miami Marlins,4605,R
+2021-04-05,Baltimore Orioles,New York Yankees,9008,R
+2021-04-05,Houston Astros,Los Angeles Angels,13447,R
+2021-04-05,Tampa Bay Rays,Boston Red Sox,4577,R
+2021-04-05,Milwaukee Brewers,Chicago Cubs,10343,R
+2021-04-05,Pittsburgh Pirates,Cincinnati Reds,9097,R
+2021-04-05,Kansas City Royals,Cleveland Indians,8914,R
+2021-04-05,Minnesota Twins,Detroit Tigers,7232,R
+2021-04-06,Los Angeles Dodgers,Oakland Athletics,7672,R
+2021-04-06,San Francisco Giants,San Diego Padres,10350,R
+2021-04-06,Chicago White Sox,Seattle Mariners,7980,R
+2021-04-06,Toronto Blue Jays,Texas Rangers,18585,R
+2021-04-06,New York Mets,Philadelphia Phillies,10752,R
+2021-04-06,St. Louis Cardinals,Miami Marlins,4982,R
+2021-04-06,Baltimore Orioles,New York Yankees,9404,R
+2021-04-06,Houston Astros,Los Angeles Angels,11122,R
+2021-04-06,Tampa Bay Rays,Boston Red Sox,4682,R
+2021-04-06,Milwaukee Brewers,Chicago Cubs,10343,R
+2021-04-06,Pittsburgh Pirates,Cincinnati Reds,11093,R
+2021-04-06,Arizona Diamondbacks,Colorado Rockies,10240,R
+2021-04-06,Minnesota Twins,Detroit Tigers,7306,R
+2021-04-06,Atlanta Braves,Washington Nationals,4801,R
+2021-04-07,Los Angeles Dodgers,Oakland Athletics,8131,R
+2021-04-07,San Francisco Giants,San Diego Padres,10350,R
+2021-04-07,Chicago White Sox,Seattle Mariners,7429,R
+2021-04-07,Toronto Blue Jays,Texas Rangers,16876,R
+2021-04-07,New York Mets,Philadelphia Phillies,10807,R
+2021-04-07,St. Louis Cardinals,Miami Marlins,5244,R
+2021-04-07,Baltimore Orioles,New York Yankees,10254,R
+2021-04-07,Tampa Bay Rays,Boston Red Sox,4751,R
+2021-04-07,Milwaukee Brewers,Chicago Cubs,10343,R
+2021-04-07,Pittsburgh Pirates,Cincinnati Reds,11463,R
+2021-04-07,Kansas City Royals,Cleveland Indians,5908,R
+2021-04-07,Arizona Diamondbacks,Colorado Rockies,12894,R
+2021-04-07,Minnesota Twins,Detroit Tigers,7568,R
+2021-04-07,Atlanta Braves,Washington Nationals,4927,R
+2021-04-08,Chicago Cubs,Pittsburgh Pirates,7749,R
+2021-04-08,Milwaukee Brewers,St. Louis Cardinals,13328,R
+2021-04-08,Los Angeles Angels,Toronto Blue Jays,1348,R
+2021-04-08,Seattle Mariners,Minnesota Twins,9675,R
+2021-04-08,Kansas City Royals,Chicago White Sox,8207,R
+2021-04-08,Boston Red Sox,Baltimore Orioles,10150,R
+2021-04-08,Arizona Diamondbacks,Colorado Rockies,10836,R
+2021-04-08,Oakland Athletics,Houston Astros,21765,R
+2021-04-08,Miami Marlins,New York Mets,8492,R
+2021-04-09,Colorado Rockies,San Francisco Giants,7390,R
+2021-04-09,New York Yankees,Tampa Bay Rays,9021,R
+2021-04-09,San Diego Padres,Texas Rangers,27575,R
+2021-04-09,Los Angeles Angels,Toronto Blue Jays,1523,R
+2021-04-09,Philadelphia Phillies,Atlanta Braves,14342,R
+2021-04-09,Cincinnati Reds,Arizona Diamondbacks,19385,R
+2021-04-09,Detroit Tigers,Cleveland Indians,7775,R
+2021-04-09,Oakland Athletics,Houston Astros,21768,R
+2021-04-09,Washington Nationals,Los Angeles Dodgers,15036,R
+2021-04-10,Chicago Cubs,Pittsburgh Pirates,7052,R
+2021-04-10,Colorado Rockies,San Francisco Giants,6176,R
+2021-04-10,Milwaukee Brewers,St. Louis Cardinals,13304,R
+2021-04-10,New York Yankees,Tampa Bay Rays,6270,R
+2021-04-10,San Diego Padres,Texas Rangers,35856,R
+2021-04-10,Los Angeles Angels,Toronto Blue Jays,1292,R
+2021-04-10,Seattle Mariners,Minnesota Twins,9817,R
+2021-04-10,Philadelphia Phillies,Atlanta Braves,14394,R
+2021-04-10,Cincinnati Reds,Arizona Diamondbacks,13208,R
+2021-04-10,Boston Red Sox,Baltimore Orioles,9307,R
+2021-04-10,Detroit Tigers,Cleveland Indians,7570,R
+2021-04-10,Oakland Athletics,Houston Astros,21760,R
+2021-04-10,Washington Nationals,Los Angeles Dodgers,15021,R
+2021-04-10,Miami Marlins,New York Mets,8419,R
+2021-04-11,Chicago Cubs,Pittsburgh Pirates,6851,R
+2021-04-11,Colorado Rockies,San Francisco Giants,6560,R
+2021-04-11,Milwaukee Brewers,St. Louis Cardinals,13176,R
+2021-04-11,New York Yankees,Tampa Bay Rays,6965,R
+2021-04-11,San Diego Padres,Texas Rangers,26723,R
+2021-04-11,Seattle Mariners,Minnesota Twins,9792,R
+2021-04-11,Philadelphia Phillies,Atlanta Braves,14221,R
+2021-04-11,Kansas City Royals,Chicago White Sox,7695,R
+2021-04-11,Cincinnati Reds,Arizona Diamondbacks,10981,R
+2021-04-11,Boston Red Sox,Baltimore Orioles,8171,R
+2021-04-11,Detroit Tigers,Cleveland Indians,6859,R
+2021-04-11,Washington Nationals,Los Angeles Dodgers,15049,R
+2021-04-11,Miami Marlins,New York Mets,8199,R
+2021-04-12,San Diego Padres,Pittsburgh Pirates,4068,R
+2021-04-12,Cincinnati Reds,San Francisco Giants,3662,R
+2021-04-12,Washington Nationals,St. Louis Cardinals,12894,R
+2021-04-12,Texas Rangers,Tampa Bay Rays,3627,R
+2021-04-12,New York Yankees,Toronto Blue Jays,1576,R
+2021-04-12,Miami Marlins,Atlanta Braves,11830,R
+2021-04-12,Cleveland Indians,Chicago White Sox,7393,R
+2021-04-12,Chicago Cubs,Milwaukee Brewers,11209,R
+2021-04-12,Oakland Athletics,Arizona Diamondbacks,8768,R
+2021-04-12,Detroit Tigers,Houston Astros,15779,R
+2021-04-12,Los Angeles Angels,Kansas City Royals,6962,R
+2021-04-13,San Diego Padres,Pittsburgh Pirates,4814,R
+2021-04-13,Cincinnati Reds,San Francisco Giants,3673,R
+2021-04-13,Washington Nationals,St. Louis Cardinals,12714,R
+2021-04-13,Texas Rangers,Tampa Bay Rays,4753,R
+2021-04-13,New York Yankees,Toronto Blue Jays,1550,R
+2021-04-13,Boston Red Sox,Minnesota Twins,6724,R
+2021-04-13,Miami Marlins,Atlanta Braves,12036,R
+2021-04-13,Cleveland Indians,Chicago White Sox,7102,R
+2021-04-13,Chicago Cubs,Milwaukee Brewers,11025,R
+2021-04-13,Oakland Athletics,Arizona Diamondbacks,7010,R
+2021-04-13,Seattle Mariners,Baltimore Orioles,4147,R
+2021-04-13,Detroit Tigers,Houston Astros,17080,R
+2021-04-13,Los Angeles Angels,Kansas City Royals,6404,R
+2021-04-13,Colorado Rockies,Los Angeles Dodgers,15021,R
+2021-04-13,Philadelphia Phillies,New York Mets,7611,R
+2021-04-14,San Diego Padres,Pittsburgh Pirates,5228,R
+2021-04-14,Cincinnati Reds,San Francisco Giants,6409,R
+2021-04-14,Washington Nationals,St. Louis Cardinals,13206,R
+2021-04-14,Texas Rangers,Tampa Bay Rays,3021,R
+2021-04-14,New York Yankees,Toronto Blue Jays,1613,R
+2021-04-14,Boston Red Sox,Minnesota Twins,7074,R
+2021-04-14,Miami Marlins,Atlanta Braves,12480,R
+2021-04-14,Cleveland Indians,Chicago White Sox,7148,R
+2021-04-14,Chicago Cubs,Milwaukee Brewers,10598,R
+2021-04-14,Detroit Tigers,Houston Astros,14720,R
+2021-04-14,Los Angeles Angels,Kansas City Royals,6814,R
+2021-04-14,Colorado Rockies,Los Angeles Dodgers,15093,R
+2021-04-14,Philadelphia Phillies,New York Mets,7520,R
+2021-04-15,Detroit Tigers,Oakland Athletics,3004,R
+2021-04-15,San Diego Padres,Pittsburgh Pirates,4023,R
+2021-04-15,Texas Rangers,Tampa Bay Rays,4217,R
+2021-04-15,Boston Red Sox,Minnesota Twins,7925,R
+2021-04-15,Miami Marlins,Atlanta Braves,11739,R
+2021-04-15,Cleveland Indians,Chicago White Sox,7049,R
+2021-04-15,Seattle Mariners,Baltimore Orioles,5060,R
+2021-04-15,Toronto Blue Jays,Kansas City Royals,6266,R
+2021-04-15,Colorado Rockies,Los Angeles Dodgers,15129,R
+2021-04-15,Arizona Diamondbacks,Washington Nationals,6666,R
+2021-04-16,Detroit Tigers,Oakland Athletics,4538,R
+2021-04-16,Los Angeles Dodgers,San Diego Padres,15250,R
+2021-04-16,Houston Astros,Seattle Mariners,8967,R
+2021-04-16,Baltimore Orioles,Texas Rangers,22173,R
+2021-04-16,St. Louis Cardinals,Philadelphia Phillies,10842,R
+2021-04-16,San Francisco Giants,Miami Marlins,5734,R
+2021-04-16,Tampa Bay Rays,New York Yankees,10202,R
+2021-04-16,Pittsburgh Pirates,Milwaukee Brewers,11967,R
+2021-04-16,Minnesota Twins,Los Angeles Angels,13428,R
+2021-04-16,Atlanta Braves,Chicago Cubs,10343,R
+2021-04-16,Cleveland Indians,Cincinnati Reds,12497,R
+2021-04-16,Arizona Diamondbacks,Washington Nationals,8056,R
+2021-04-17,Detroit Tigers,Oakland Athletics,6931,R
+2021-04-17,Los Angeles Dodgers,San Diego Padres,15250,R
+2021-04-17,Houston Astros,Seattle Mariners,8960,R
+2021-04-17,Baltimore Orioles,Texas Rangers,29338,R
+2021-04-17,St. Louis Cardinals,Philadelphia Phillies,10890,R
+2021-04-17,San Francisco Giants,Miami Marlins,6014,R
+2021-04-17,Tampa Bay Rays,New York Yankees,10583,R
+2021-04-17,Pittsburgh Pirates,Milwaukee Brewers,12038,R
+2021-04-17,Chicago White Sox,Boston Red Sox,4668,R
+2021-04-17,Atlanta Braves,Chicago Cubs,10343,R
+2021-04-17,Cleveland Indians,Cincinnati Reds,12598,R
+2021-04-17,New York Mets,Colorado Rockies,13906,R
+2021-04-17,Toronto Blue Jays,Kansas City Royals,9048,R
+2021-04-17,Arizona Diamondbacks,Washington Nationals,8305,R
+2021-04-18,Detroit Tigers,Oakland Athletics,6917,R
+2021-04-18,Los Angeles Dodgers,San Diego Padres,15250,R
+2021-04-18,Houston Astros,Seattle Mariners,8959,R
+2021-04-18,Baltimore Orioles,Texas Rangers,24267,R
+2021-04-18,St. Louis Cardinals,Philadelphia Phillies,10876,R
+2021-04-18,San Francisco Giants,Miami Marlins,6129,R
+2021-04-18,Tampa Bay Rays,New York Yankees,10606,R
+2021-04-18,Pittsburgh Pirates,Milwaukee Brewers,11772,R
+2021-04-18,Chicago White Sox,Boston Red Sox,4679,R
+2021-04-18,Atlanta Braves,Chicago Cubs,10343,R
+2021-04-18,Cleveland Indians,Cincinnati Reds,12551,R
+2021-04-18,New York Mets,Colorado Rockies,15082,R
+2021-04-18,Toronto Blue Jays,Kansas City Royals,9042,R
+2021-04-18,Arizona Diamondbacks,Washington Nationals,8478,R
+2021-04-19,Milwaukee Brewers,San Diego Padres,15250,R
+2021-04-19,Los Angeles Dodgers,Seattle Mariners,8999,R
+2021-04-19,San Francisco Giants,Philadelphia Phillies,9510,R
+2021-04-19,Texas Rangers,Los Angeles Angels,11396,R
+2021-04-19,Chicago White Sox,Boston Red Sox,4738,R
+2021-04-19,Tampa Bay Rays,Kansas City Royals,5589,R
+2021-04-19,St. Louis Cardinals,Washington Nationals,7542,R
+2021-04-20,Minnesota Twins,Oakland Athletics,3322,R
+2021-04-20,Milwaukee Brewers,San Diego Padres,15250,R
+2021-04-20,Los Angeles Dodgers,Seattle Mariners,8998,R
+2021-04-20,San Francisco Giants,Philadelphia Phillies,10584,R
+2021-04-20,Baltimore Orioles,Miami Marlins,4540,R
+2021-04-20,Atlanta Braves,New York Yankees,10017,R
+2021-04-20,Texas Rangers,Los Angeles Angels,12544,R
+2021-04-20,Toronto Blue Jays,Boston Red Sox,4728,R
+2021-04-20,New York Mets,Chicago Cubs,10137,R
+2021-04-20,Arizona Diamondbacks,Cincinnati Reds,8085,R
+2021-04-20,Chicago White Sox,Cleveland Indians,4176,R
+2021-04-20,Houston Astros,Colorado Rockies,10144,R
+2021-04-20,Tampa Bay Rays,Kansas City Royals,4481,R
+2021-04-20,St. Louis Cardinals,Washington Nationals,8418,R
+2021-04-21,Minnesota Twins,Oakland Athletics,3405,R
+2021-04-21,Milwaukee Brewers,San Diego Padres,15250,R
+2021-04-21,San Francisco Giants,Philadelphia Phillies,9537,R
+2021-04-21,Baltimore Orioles,Miami Marlins,4028,R
+2021-04-21,Atlanta Braves,New York Yankees,9634,R
+2021-04-21,Texas Rangers,Los Angeles Angels,9207,R
+2021-04-21,Toronto Blue Jays,Boston Red Sox,4661,R
+2021-04-21,New York Mets,Chicago Cubs,10196,R
+2021-04-21,Arizona Diamondbacks,Cincinnati Reds,8025,R
+2021-04-21,Houston Astros,Colorado Rockies,7120,R
+2021-04-21,Pittsburgh Pirates,Detroit Tigers,7461,R
+2021-04-21,Tampa Bay Rays,Kansas City Royals,5053,R
+2021-04-21,St. Louis Cardinals,Washington Nationals,7769,R
+2021-04-22,Miami Marlins,San Francisco Giants,4580,R
+2021-04-22,Seattle Mariners,Boston Red Sox,4617,R
+2021-04-22,New York Mets,Chicago Cubs,10343,R
+2021-04-22,Arizona Diamondbacks,Cincinnati Reds,7549,R
+2021-04-22,New York Yankees,Cleveland Indians,6380,R
+2021-04-22,Pittsburgh Pirates,Detroit Tigers,7314,R
+2021-04-22,Los Angeles Angels,Houston Astros,13985,R
+2021-04-22,San Diego Padres,Los Angeles Dodgers,15167,R
+2021-04-23,Miami Marlins,San Francisco Giants,6657,R
+2021-04-23,Cincinnati Reds,St. Louis Cardinals,13196,R
+2021-04-23,Toronto Blue Jays,Tampa Bay Rays,5564,R
+2021-04-23,Pittsburgh Pirates,Minnesota Twins,9541,R
+2021-04-23,Arizona Diamondbacks,Atlanta Braves,19258,R
+2021-04-23,Texas Rangers,Chicago White Sox,8969,R
+2021-04-23,Oakland Athletics,Baltimore Orioles,7574,R
+2021-04-23,Seattle Mariners,Boston Red Sox,4646,R
+2021-04-23,Milwaukee Brewers,Chicago Cubs,10343,R
+2021-04-23,New York Yankees,Cleveland Indians,8662,R
+2021-04-23,Philadelphia Phillies,Colorado Rockies,14025,R
+2021-04-23,Kansas City Royals,Detroit Tigers,8000,R
+2021-04-23,Los Angeles Angels,Houston Astros,21728,R
+2021-04-23,San Diego Padres,Los Angeles Dodgers,15222,R
+2021-04-23,Washington Nationals,New York Mets,8130,R
+2021-04-24,Miami Marlins,San Francisco Giants,8282,R
+2021-04-24,Cincinnati Reds,St. Louis Cardinals,13176,R
+2021-04-24,Toronto Blue Jays,Tampa Bay Rays,6688,R
+2021-04-24,Pittsburgh Pirates,Minnesota Twins,9718,R
+2021-04-24,Texas Rangers,Chicago White Sox,8556,R
+2021-04-24,Oakland Athletics,Baltimore Orioles,7616,R
+2021-04-24,Seattle Mariners,Boston Red Sox,4621,R
+2021-04-24,Milwaukee Brewers,Chicago Cubs,10343,R
+2021-04-24,New York Yankees,Cleveland Indians,8817,R
+2021-04-24,Philadelphia Phillies,Colorado Rockies,20214,R
+2021-04-24,Kansas City Royals,Detroit Tigers,8000,R
+2021-04-24,Los Angeles Angels,Houston Astros,21820,R
+2021-04-24,San Diego Padres,Los Angeles Dodgers,15596,R
+2021-04-24,Washington Nationals,New York Mets,8051,R
+2021-04-25,Miami Marlins,San Francisco Giants,7572,R
+2021-04-25,Cincinnati Reds,St. Louis Cardinals,13348,R
+2021-04-25,Toronto Blue Jays,Tampa Bay Rays,6372,R
+2021-04-25,Pittsburgh Pirates,Minnesota Twins,9396,R
+2021-04-25,Arizona Diamondbacks,Atlanta Braves,20693,R
+2021-04-25,Texas Rangers,Chicago White Sox,9285,R
+2021-04-25,Oakland Athletics,Baltimore Orioles,8107,R
+2021-04-25,Seattle Mariners,Boston Red Sox,4510,R
+2021-04-25,Milwaukee Brewers,Chicago Cubs,10343,R
+2021-04-25,New York Yankees,Cleveland Indians,8766,R
+2021-04-25,Philadelphia Phillies,Colorado Rockies,20244,R
+2021-04-25,Kansas City Royals,Detroit Tigers,8000,R
+2021-04-25,Los Angeles Angels,Houston Astros,21781,R
+2021-04-25,San Diego Padres,Los Angeles Dodgers,15316,R
+2021-04-25,Washington Nationals,New York Mets,7784,R
+2021-04-26,Colorado Rockies,San Francisco Giants,4129,R
+2021-04-26,Philadelphia Phillies,St. Louis Cardinals,12866,R
+2021-04-26,Oakland Athletics,Tampa Bay Rays,2981,R
+2021-04-26,Los Angeles Angels,Texas Rangers,17766,R
+2021-04-26,Chicago Cubs,Atlanta Braves,17956,R
+2021-04-26,Miami Marlins,Milwaukee Brewers,10749,R
+2021-04-26,New York Yankees,Baltimore Orioles,6367,R
+2021-04-26,Minnesota Twins,Cleveland Indians,4555,R
+2021-04-26,Kansas City Royals,Detroit Tigers,7288,R
+2021-04-26,Seattle Mariners,Houston Astros,11862,R
+2021-04-26,Cincinnati Reds,Los Angeles Dodgers,15199,R
+2021-04-27,Kansas City Royals,Pittsburgh Pirates,5510,R
+2021-04-27,Colorado Rockies,San Francisco Giants,5595,R
+2021-04-27,Philadelphia Phillies,St. Louis Cardinals,12895,R
+2021-04-27,Oakland Athletics,Tampa Bay Rays,2924,R
+2021-04-27,Los Angeles Angels,Texas Rangers,16103,R
+2021-04-27,Washington Nationals,Toronto Blue Jays,1471,R
+2021-04-27,Chicago Cubs,Atlanta Braves,17603,R
+2021-04-27,Detroit Tigers,Chicago White Sox,9445,R
+2021-04-27,Miami Marlins,Milwaukee Brewers,10620,R
+2021-04-27,San Diego Padres,Arizona Diamondbacks,10486,R
+2021-04-27,New York Yankees,Baltimore Orioles,6662,R
+2021-04-27,Minnesota Twins,Cleveland Indians,6303,R
+2021-04-27,Seattle Mariners,Houston Astros,14413,R
+2021-04-27,Cincinnati Reds,Los Angeles Dodgers,15306,R
+2021-04-27,Boston Red Sox,New York Mets,7917,R
+2021-04-28,Kansas City Royals,Pittsburgh Pirates,4226,R
+2021-04-28,Colorado Rockies,San Francisco Giants,6163,R
+2021-04-28,Philadelphia Phillies,St. Louis Cardinals,12701,R
+2021-04-28,Oakland Athletics,Tampa Bay Rays,3374,R
+2021-04-28,Los Angeles Angels,Texas Rangers,17875,R
+2021-04-28,Washington Nationals,Toronto Blue Jays,1274,R
+2021-04-28,Chicago Cubs,Atlanta Braves,18709,R
+2021-04-28,Miami Marlins,Milwaukee Brewers,11564,R
+2021-04-28,San Diego Padres,Arizona Diamondbacks,9495,R
+2021-04-28,New York Yankees,Baltimore Orioles,7338,R
+2021-04-28,Minnesota Twins,Cleveland Indians,5903,R
+2021-04-28,Seattle Mariners,Houston Astros,12707,R
+2021-04-28,Cincinnati Reds,Los Angeles Dodgers,15052,R
+2021-04-28,Boston Red Sox,New York Mets,8051,R
+2021-04-29,Philadelphia Phillies,St. Louis Cardinals,13159,R
+2021-04-29,Oakland Athletics,Tampa Bay Rays,3737,R
+2021-04-29,Boston Red Sox,Texas Rangers,23640,R
+2021-04-29,Chicago Cubs,Atlanta Braves,19661,R
+2021-04-29,Detroit Tigers,Chicago White Sox,7628,R
+2021-04-29,Los Angeles Dodgers,Milwaukee Brewers,10621,R
+2021-04-29,Colorado Rockies,Arizona Diamondbacks,6843,R
+2021-04-29,New York Yankees,Baltimore Orioles,7738,R
+2021-04-29,Seattle Mariners,Houston Astros,14149,R
+2021-04-30,Baltimore Orioles,Oakland Athletics,5777,R
+2021-04-30,St. Louis Cardinals,Pittsburgh Pirates,5953,R
+2021-04-30,San Francisco Giants,San Diego Padres,15250,R
+2021-04-30,Los Angeles Angels,Seattle Mariners,8632,R
+2021-04-30,Houston Astros,Tampa Bay Rays,6169,R
+2021-04-30,Boston Red Sox,Texas Rangers,28267,R
+2021-04-30,Atlanta Braves,Toronto Blue Jays,1629,R
+2021-04-30,Kansas City Royals,Minnesota Twins,9982,R
+2021-04-30,New York Mets,Philadelphia Phillies,10914,R
+2021-04-30,Cleveland Indians,Chicago White Sox,9405,R
+2021-04-30,Detroit Tigers,New York Yankees,9523,R
+2021-04-30,Los Angeles Dodgers,Milwaukee Brewers,12044,R
+2021-04-30,Colorado Rockies,Arizona Diamondbacks,13184,R
+2021-04-30,Chicago Cubs,Cincinnati Reds,16090,R
+2021-04-30,Miami Marlins,Washington Nationals,8295,R
+2021-05-01,Baltimore Orioles,Oakland Athletics,6469,R
+2021-05-01,St. Louis Cardinals,Pittsburgh Pirates,7331,R
+2021-05-01,San Francisco Giants,San Diego Padres,15250,R
+2021-05-01,Los Angeles Angels,Seattle Mariners,8993,R
+2021-05-01,Houston Astros,Tampa Bay Rays,7335,R
+2021-05-01,Boston Red Sox,Texas Rangers,35129,R
+2021-05-01,Atlanta Braves,Toronto Blue Jays,1634,R
+2021-05-01,Kansas City Royals,Minnesota Twins,9993,R
+2021-05-01,New York Mets,Philadelphia Phillies,10948,R
+2021-05-01,Cleveland Indians,Chicago White Sox,9451,R
+2021-05-01,Detroit Tigers,New York Yankees,10015,R
+2021-05-01,Los Angeles Dodgers,Milwaukee Brewers,12139,R
+2021-05-01,Colorado Rockies,Arizona Diamondbacks,15734,R
+2021-05-01,Chicago Cubs,Cincinnati Reds,17077,R
+2021-05-01,Miami Marlins,Washington Nationals,8510,R
+2021-05-02,Baltimore Orioles,Oakland Athletics,5862,R
+2021-05-02,St. Louis Cardinals,Pittsburgh Pirates,7343,R
+2021-05-02,San Francisco Giants,San Diego Padres,15250,R
+2021-05-02,Los Angeles Angels,Seattle Mariners,9000,R
+2021-05-02,Houston Astros,Tampa Bay Rays,6933,R
+2021-05-02,Boston Red Sox,Texas Rangers,29190,R
+2021-05-02,Atlanta Braves,Toronto Blue Jays,1554,R
+2021-05-02,Kansas City Royals,Minnesota Twins,9997,R
+2021-05-02,New York Mets,Philadelphia Phillies,10964,R
+2021-05-02,Cleveland Indians,Chicago White Sox,9471,R
+2021-05-02,Detroit Tigers,New York Yankees,10021,R
+2021-05-02,Los Angeles Dodgers,Milwaukee Brewers,12130,R
+2021-05-02,Colorado Rockies,Arizona Diamondbacks,11395,R
+2021-05-02,Chicago Cubs,Cincinnati Reds,16755,R
+2021-05-02,Miami Marlins,Washington Nationals,8482,R
+2021-05-03,Toronto Blue Jays,Oakland Athletics,2944,R
+2021-05-03,Pittsburgh Pirates,San Diego Padres,15250,R
+2021-05-03,Baltimore Orioles,Seattle Mariners,5776,R
+2021-05-03,New York Mets,St. Louis Cardinals,12686,R
+2021-05-03,Texas Rangers,Minnesota Twins,8071,R
+2021-05-03,Milwaukee Brewers,Philadelphia Phillies,10651,R
+2021-05-03,Tampa Bay Rays,Los Angeles Angels,10641,R
+2021-05-03,Cleveland Indians,Kansas City Royals,6919,R
+2021-05-04,Toronto Blue Jays,Oakland Athletics,2970,R
+2021-05-04,Pittsburgh Pirates,San Diego Padres,15250,R
+2021-05-04,Baltimore Orioles,Seattle Mariners,6504,R
+2021-05-04,Texas Rangers,Minnesota Twins,8022,R
+2021-05-04,Milwaukee Brewers,Philadelphia Phillies,10388,R
+2021-05-04,Arizona Diamondbacks,Miami Marlins,3898,R
+2021-05-04,Houston Astros,New York Yankees,10850,R
+2021-05-04,Tampa Bay Rays,Los Angeles Angels,8152,R
+2021-05-04,Detroit Tigers,Boston Red Sox,4677,R
+2021-05-04,Los Angeles Dodgers,Chicago Cubs,10343,R
+2021-05-04,Chicago White Sox,Cincinnati Reds,10209,R
+2021-05-04,San Francisco Giants,Colorado Rockies,10213,R
+2021-05-04,Cleveland Indians,Kansas City Royals,5997,R
+2021-05-04,Atlanta Braves,Washington Nationals,8156,R
+2021-05-05,Toronto Blue Jays,Oakland Athletics,2893,R
+2021-05-05,Pittsburgh Pirates,San Diego Padres,15250,R
+2021-05-05,Baltimore Orioles,Seattle Mariners,6742,R
+2021-05-05,New York Mets,St. Louis Cardinals,13187,R
+2021-05-05,Texas Rangers,Minnesota Twins,7853,R
+2021-05-05,Milwaukee Brewers,Philadelphia Phillies,10110,R
+2021-05-05,Arizona Diamondbacks,Miami Marlins,3573,R
+2021-05-05,Houston Astros,New York Yankees,9895,R
+2021-05-05,Tampa Bay Rays,Los Angeles Angels,9169,R
+2021-05-05,Detroit Tigers,Boston Red Sox,4661,R
+2021-05-05,Los Angeles Dodgers,Chicago Cubs,10343,R
+2021-05-05,Chicago White Sox,Cincinnati Reds,10247,R
+2021-05-05,San Francisco Giants,Colorado Rockies,9521,R
+2021-05-05,Cleveland Indians,Kansas City Royals,9640,R
+2021-05-05,Atlanta Braves,Washington Nationals,8400,R
+2021-05-06,Toronto Blue Jays,Oakland Athletics,3611,R
+2021-05-06,New York Mets,St. Louis Cardinals,12939,R
+2021-05-06,Texas Rangers,Minnesota Twins,8760,R
+2021-05-06,Milwaukee Brewers,Philadelphia Phillies,10768,R
+2021-05-06,Arizona Diamondbacks,Miami Marlins,4049,R
+2021-05-06,Houston Astros,New York Yankees,10042,R
+2021-05-06,Tampa Bay Rays,Los Angeles Angels,8840,R
+2021-05-06,Detroit Tigers,Boston Red Sox,4734,R
+2021-05-06,Cleveland Indians,Kansas City Royals,9259,R
+2021-05-06,Atlanta Braves,Washington Nationals,8561,R
+2021-05-07,Tampa Bay Rays,Oakland Athletics,5058,R
+2021-05-07,San Diego Padres,San Francisco Giants,9219,R
+2021-05-07,Colorado Rockies,St. Louis Cardinals,13435,R
+2021-05-07,Seattle Mariners,Texas Rangers,26047,R
+2021-05-07,Philadelphia Phillies,Atlanta Braves,38952,R
+2021-05-07,Milwaukee Brewers,Miami Marlins,5507,R
+2021-05-07,Washington Nationals,New York Yankees,10010,R
+2021-05-07,Los Angeles Dodgers,Los Angeles Angels,15316,R
+2021-05-07,Boston Red Sox,Baltimore Orioles,7724,R
+2021-05-07,Pittsburgh Pirates,Chicago Cubs,10343,R
+2021-05-07,Cincinnati Reds,Cleveland Indians,7803,R
+2021-05-07,Minnesota Twins,Detroit Tigers,7377,R
+2021-05-07,Toronto Blue Jays,Houston Astros,25410,R
+2021-05-07,Chicago White Sox,Kansas City Royals,16011,R
+2021-05-07,Arizona Diamondbacks,New York Mets,7662,R
+2021-05-08,Tampa Bay Rays,Oakland Athletics,7707,R
+2021-05-08,San Diego Padres,San Francisco Giants,9764,R
+2021-05-08,Colorado Rockies,St. Louis Cardinals,13390,R
+2021-05-08,Seattle Mariners,Texas Rangers,26616,R
+2021-05-08,Philadelphia Phillies,Atlanta Braves,39852,R
+2021-05-08,Milwaukee Brewers,Miami Marlins,5764,R
+2021-05-08,Washington Nationals,New York Yankees,10850,R
+2021-05-08,Los Angeles Dodgers,Los Angeles Angels,15274,R
+2021-05-08,Boston Red Sox,Baltimore Orioles,10598,R
+2021-05-08,Pittsburgh Pirates,Chicago Cubs,10343,R
+2021-05-08,Cincinnati Reds,Cleveland Indians,9968,R
+2021-05-08,Minnesota Twins,Detroit Tigers,8000,R
+2021-05-08,Toronto Blue Jays,Houston Astros,25794,R
+2021-05-08,Chicago White Sox,Kansas City Royals,15895,R
+2021-05-08,Arizona Diamondbacks,New York Mets,7908,R
+2021-05-09,Tampa Bay Rays,Oakland Athletics,6911,R
+2021-05-09,San Diego Padres,San Francisco Giants,10008,R
+2021-05-09,Colorado Rockies,St. Louis Cardinals,13380,R
+2021-05-09,Seattle Mariners,Texas Rangers,30632,R
+2021-05-09,Philadelphia Phillies,Atlanta Braves,28829,R
+2021-05-09,Milwaukee Brewers,Miami Marlins,5105,R
+2021-05-09,Washington Nationals,New York Yankees,10092,R
+2021-05-09,Los Angeles Dodgers,Los Angeles Angels,15294,R
+2021-05-09,Boston Red Sox,Baltimore Orioles,10274,R
+2021-05-09,Pittsburgh Pirates,Chicago Cubs,10343,R
+2021-05-09,Toronto Blue Jays,Houston Astros,24355,R
+2021-05-09,Chicago White Sox,Kansas City Royals,12102,R
+2021-05-09,Arizona Diamondbacks,New York Mets,7880,R
+2021-05-10,Cincinnati Reds,Pittsburgh Pirates,4065,R
+2021-05-10,Texas Rangers,San Francisco Giants,7450,R
+2021-05-10,Miami Marlins,Arizona Diamondbacks,6307,R
+2021-05-10,Boston Red Sox,Baltimore Orioles,6826,R
+2021-05-10,Los Angeles Angels,Houston Astros,13695,R
+2021-05-11,Cincinnati Reds,Pittsburgh Pirates,4049,R
+2021-05-11,Texas Rangers,San Francisco Giants,7268,R
+2021-05-11,New York Yankees,Tampa Bay Rays,5441,R
+2021-05-11,Toronto Blue Jays,Atlanta Braves,21688,R
+2021-05-11,Minnesota Twins,Chicago White Sox,7962,R
+2021-05-11,St. Louis Cardinals,Milwaukee Brewers,10595,R
+2021-05-11,Miami Marlins,Arizona Diamondbacks,5560,R
+2021-05-11,Oakland Athletics,Boston Red Sox,9264,R
+2021-05-11,Chicago Cubs,Cleveland Indians,8024,R
+2021-05-11,San Diego Padres,Colorado Rockies,8825,R
+2021-05-11,Kansas City Royals,Detroit Tigers,7312,R
+2021-05-11,Los Angeles Angels,Houston Astros,17350,R
+2021-05-11,Seattle Mariners,Los Angeles Dodgers,15570,R
+2021-05-11,Philadelphia Phillies,Washington Nationals,8559,R
+2021-05-11,Baltimore Orioles,New York Mets,7930,R
+2021-05-12,Cincinnati Reds,Pittsburgh Pirates,4515,R
+2021-05-12,New York Yankees,Tampa Bay Rays,5668,R
+2021-05-12,Toronto Blue Jays,Atlanta Braves,21171,R
+2021-05-12,Minnesota Twins,Chicago White Sox,8393,R
+2021-05-12,St. Louis Cardinals,Milwaukee Brewers,10226,R
+2021-05-12,Miami Marlins,Arizona Diamondbacks,5714,R
+2021-05-12,Oakland Athletics,Boston Red Sox,9272,R
+2021-05-12,Chicago Cubs,Cleveland Indians,8589,R
+2021-05-12,San Diego Padres,Colorado Rockies,11968,R
+2021-05-12,Kansas City Royals,Detroit Tigers,7133,R
+2021-05-12,Los Angeles Angels,Houston Astros,13668,R
+2021-05-12,Seattle Mariners,Los Angeles Dodgers,15586,R
+2021-05-12,Philadelphia Phillies,Washington Nationals,8610,R
+2021-05-12,Baltimore Orioles,New York Mets,8035,R
+2021-05-13,San Francisco Giants,Pittsburgh Pirates,4099,R
+2021-05-13,Cleveland Indians,Seattle Mariners,9880,R
+2021-05-13,New York Yankees,Tampa Bay Rays,6229,R
+2021-05-13,Toronto Blue Jays,Atlanta Braves,21653,R
+2021-05-13,Minnesota Twins,Chicago White Sox,8188,R
+2021-05-13,St. Louis Cardinals,Milwaukee Brewers,10554,R
+2021-05-13,Miami Marlins,Arizona Diamondbacks,5967,R
+2021-05-13,Oakland Athletics,Boston Red Sox,9301,R
+2021-05-13,Cincinnati Reds,Colorado Rockies,13647,R
+2021-05-13,Kansas City Royals,Detroit Tigers,7369,R
+2021-05-13,Texas Rangers,Houston Astros,16340,R
+2021-05-13,Philadelphia Phillies,Washington Nationals,8710,R
+2021-05-14,San Francisco Giants,Pittsburgh Pirates,6743,R
+2021-05-14,St. Louis Cardinals,San Diego Padres,15250,R
+2021-05-14,Cleveland Indians,Seattle Mariners,10014,R
+2021-05-14,New York Mets,Tampa Bay Rays,7123,R
+2021-05-14,Philadelphia Phillies,Toronto Blue Jays,1171,R
+2021-05-14,Oakland Athletics,Minnesota Twins,9778,R
+2021-05-14,Kansas City Royals,Chicago White Sox,9823,R
+2021-05-14,Atlanta Braves,Milwaukee Brewers,12130,R
+2021-05-14,Washington Nationals,Arizona Diamondbacks,11907,R
+2021-05-14,New York Yankees,Baltimore Orioles,10809,R
+2021-05-14,Los Angeles Angels,Boston Red Sox,9284,R
+2021-05-14,Cincinnati Reds,Colorado Rockies,20232,R
+2021-05-14,Chicago Cubs,Detroit Tigers,8000,R
+2021-05-14,Texas Rangers,Houston Astros,24495,R
+2021-05-14,Miami Marlins,Los Angeles Dodgers,15915,R
+2021-05-15,San Francisco Giants,Pittsburgh Pirates,7833,R
+2021-05-15,St. Louis Cardinals,San Diego Padres,15250,R
+2021-05-15,Cleveland Indians,Seattle Mariners,10311,R
+2021-05-15,New York Mets,Tampa Bay Rays,7536,R
+2021-05-15,Philadelphia Phillies,Toronto Blue Jays,1397,R
+2021-05-15,Oakland Athletics,Minnesota Twins,12212,R
+2021-05-15,Kansas City Royals,Chicago White Sox,9886,R
+2021-05-15,Atlanta Braves,Milwaukee Brewers,16344,R
+2021-05-15,Washington Nationals,Arizona Diamondbacks,13462,R
+2021-05-15,New York Yankees,Baltimore Orioles,10767,R
+2021-05-15,Los Angeles Angels,Boston Red Sox,9374,R
+2021-05-15,Cincinnati Reds,Colorado Rockies,20136,R
+2021-05-15,Chicago Cubs,Detroit Tigers,8000,R
+2021-05-15,Texas Rangers,Houston Astros,25858,R
+2021-05-15,Miami Marlins,Los Angeles Dodgers,16116,R
+2021-05-16,San Francisco Giants,Pittsburgh Pirates,7356,R
+2021-05-16,St. Louis Cardinals,San Diego Padres,15250,R
+2021-05-16,Cleveland Indians,Seattle Mariners,10287,R
+2021-05-16,New York Mets,Tampa Bay Rays,7355,R
+2021-05-16,Philadelphia Phillies,Toronto Blue Jays,1107,R
+2021-05-16,Oakland Athletics,Minnesota Twins,10270,R
+2021-05-16,Kansas City Royals,Chicago White Sox,9928,R
+2021-05-16,Atlanta Braves,Milwaukee Brewers,16044,R
+2021-05-16,Washington Nationals,Arizona Diamondbacks,11619,R
+2021-05-16,New York Yankees,Baltimore Orioles,11070,R
+2021-05-16,Los Angeles Angels,Boston Red Sox,9316,R
+2021-05-16,Cincinnati Reds,Colorado Rockies,15541,R
+2021-05-16,Chicago Cubs,Detroit Tigers,8000,R
+2021-05-16,Texas Rangers,Houston Astros,26069,R
+2021-05-16,Miami Marlins,Los Angeles Dodgers,15976,R
+2021-05-17,Colorado Rockies,San Diego Padres,15250,R
+2021-05-17,Detroit Tigers,Seattle Mariners,7201,R
+2021-05-17,New York Yankees,Texas Rangers,28040,R
+2021-05-17,Chicago White Sox,Minnesota Twins,8431,R
+2021-05-17,New York Mets,Atlanta Braves,22691,R
+2021-05-17,Cleveland Indians,Los Angeles Angels,9527,R
+2021-05-17,Washington Nationals,Chicago Cubs,11144,R
+2021-05-17,San Francisco Giants,Cincinnati Reds,11004,R
+2021-05-17,Arizona Diamondbacks,Los Angeles Dodgers,14088,R
+2021-05-18,Houston Astros,Oakland Athletics,4838,R
+2021-05-18,Colorado Rockies,San Diego Padres,15250,R
+2021-05-18,Detroit Tigers,Seattle Mariners,6883,R
+2021-05-18,Pittsburgh Pirates,St. Louis Cardinals,14005,R
+2021-05-18,New York Yankees,Texas Rangers,26522,R
+2021-05-18,Boston Red Sox,Toronto Blue Jays,1566,R
+2021-05-18,Chicago White Sox,Minnesota Twins,9504,R
+2021-05-18,Miami Marlins,Philadelphia Phillies,11114,R
+2021-05-18,New York Mets,Atlanta Braves,21667,R
+2021-05-18,Cleveland Indians,Los Angeles Angels,9491,R
+2021-05-18,Tampa Bay Rays,Baltimore Orioles,5429,R
+2021-05-18,Washington Nationals,Chicago Cubs,11142,R
+2021-05-18,San Francisco Giants,Cincinnati Reds,8745,R
+2021-05-18,Milwaukee Brewers,Kansas City Royals,9298,R
+2021-05-18,Arizona Diamondbacks,Los Angeles Dodgers,15313,R
+2021-05-19,Houston Astros,Oakland Athletics,3925,R
+2021-05-19,Colorado Rockies,San Diego Padres,15250,R
+2021-05-19,Detroit Tigers,Seattle Mariners,8462,R
+2021-05-19,Pittsburgh Pirates,St. Louis Cardinals,14677,R
+2021-05-19,New York Yankees,Texas Rangers,31689,R
+2021-05-19,Boston Red Sox,Toronto Blue Jays,1581,R
+2021-05-19,Chicago White Sox,Minnesota Twins,8608,R
+2021-05-19,Miami Marlins,Philadelphia Phillies,11549,R
+2021-05-19,New York Mets,Atlanta Braves,22619,R
+2021-05-19,Cleveland Indians,Los Angeles Angels,10378,R
+2021-05-19,Tampa Bay Rays,Baltimore Orioles,6581,R
+2021-05-19,Washington Nationals,Chicago Cubs,11145,R
+2021-05-19,San Francisco Giants,Cincinnati Reds,10326,R
+2021-05-19,Milwaukee Brewers,Kansas City Royals,8950,R
+2021-05-19,Arizona Diamondbacks,Los Angeles Dodgers,15586,R
+2021-05-20,Houston Astros,Oakland Athletics,4562,R
+2021-05-20,New York Yankees,Texas Rangers,27581,R
+2021-05-20,Boston Red Sox,Toronto Blue Jays,1562,R
+2021-05-20,Miami Marlins,Philadelphia Phillies,11503,R
+2021-05-20,Pittsburgh Pirates,Atlanta Braves,21430,R
+2021-05-20,Minnesota Twins,Los Angeles Angels,9920,R
+2021-05-20,Tampa Bay Rays,Baltimore Orioles,6916,R
+2021-05-20,Washington Nationals,Chicago Cubs,11143,R
+2021-05-20,San Francisco Giants,Cincinnati Reds,11656,R
+2021-05-20,Arizona Diamondbacks,Los Angeles Dodgers,16105,R
+2021-05-21,Seattle Mariners,San Diego Padres,15250,R
+2021-05-21,Los Angeles Dodgers,San Francisco Giants,12753,R
+2021-05-21,Chicago Cubs,St. Louis Cardinals,24282,R
+2021-05-21,Houston Astros,Texas Rangers,30445,R
+2021-05-21,Tampa Bay Rays,Toronto Blue Jays,1437,R
+2021-05-21,Boston Red Sox,Philadelphia Phillies,15279,R
+2021-05-21,Pittsburgh Pirates,Atlanta Braves,37545,R
+2021-05-21,New York Mets,Miami Marlins,7282,R
+2021-05-21,Chicago White Sox,New York Yankees,14011,R
+2021-05-21,Oakland Athletics,Los Angeles Angels,14624,R
+2021-05-21,Milwaukee Brewers,Cincinnati Reds,17234,R
+2021-05-21,Minnesota Twins,Cleveland Indians,11675,R
+2021-05-21,Arizona Diamondbacks,Colorado Rockies,18158,R
+2021-05-21,Detroit Tigers,Kansas City Royals,17080,R
+2021-05-21,Baltimore Orioles,Washington Nationals,14369,R
+2021-05-22,Seattle Mariners,San Diego Padres,15250,R
+2021-05-22,Los Angeles Dodgers,San Francisco Giants,13660,R
+2021-05-22,Chicago Cubs,St. Louis Cardinals,26027,R
+2021-05-22,Houston Astros,Texas Rangers,38055,R
+2021-05-22,Tampa Bay Rays,Toronto Blue Jays,1514,R
+2021-05-22,Boston Red Sox,Philadelphia Phillies,15424,R
+2021-05-22,Pittsburgh Pirates,Atlanta Braves,40068,R
+2021-05-22,New York Mets,Miami Marlins,7513,R
+2021-05-22,Chicago White Sox,New York Yankees,14665,R
+2021-05-22,Oakland Athletics,Los Angeles Angels,15151,R
+2021-05-22,Milwaukee Brewers,Cincinnati Reds,17611,R
+2021-05-22,Minnesota Twins,Cleveland Indians,11505,R
+2021-05-22,Arizona Diamondbacks,Colorado Rockies,20183,R
+2021-05-22,Detroit Tigers,Kansas City Royals,14226,R
+2021-05-22,Baltimore Orioles,Washington Nationals,15440,R
+2021-05-23,Seattle Mariners,San Diego Padres,15250,R
+2021-05-23,Los Angeles Dodgers,San Francisco Giants,13346,R
+2021-05-23,Chicago Cubs,St. Louis Cardinals,24082,R
+2021-05-23,Houston Astros,Texas Rangers,36444,R
+2021-05-23,Tampa Bay Rays,Toronto Blue Jays,1496,R
+2021-05-23,Boston Red Sox,Philadelphia Phillies,15360,R
+2021-05-23,Pittsburgh Pirates,Atlanta Braves,39874,R
+2021-05-23,New York Mets,Miami Marlins,7945,R
+2021-05-23,Chicago White Sox,New York Yankees,14007,R
+2021-05-23,Oakland Athletics,Los Angeles Angels,15154,R
+2021-05-23,Milwaukee Brewers,Cincinnati Reds,16171,R
+2021-05-23,Minnesota Twins,Cleveland Indians,9805,R
+2021-05-23,Arizona Diamondbacks,Colorado Rockies,19221,R
+2021-05-23,Detroit Tigers,Kansas City Royals,15540,R
+2021-05-23,Baltimore Orioles,Washington Nationals,14618,R
+2021-05-24,Seattle Mariners,Oakland Athletics,3019,R
+2021-05-24,Tampa Bay Rays,Toronto Blue Jays,1641,R
+2021-05-24,Baltimore Orioles,Minnesota Twins,8530,R
+2021-05-24,St. Louis Cardinals,Chicago White Sox,14629,R
+2021-05-24,Philadelphia Phillies,Miami Marlins,4527,R
+2021-05-24,San Diego Padres,Milwaukee Brewers,14524,R
+2021-05-24,Cleveland Indians,Detroit Tigers,7832,R
+2021-05-24,Colorado Rockies,New York Mets,8438,R
+2021-05-25,Seattle Mariners,Oakland Athletics,2865,R
+2021-05-25,Chicago Cubs,Pittsburgh Pirates,6750,R
+2021-05-25,Kansas City Royals,Tampa Bay Rays,4946,R
+2021-05-25,Baltimore Orioles,Minnesota Twins,9969,R
+2021-05-25,St. Louis Cardinals,Chicago White Sox,16380,R
+2021-05-25,Philadelphia Phillies,Miami Marlins,4864,R
+2021-05-25,Toronto Blue Jays,New York Yankees,12025,R
+2021-05-25,San Diego Padres,Milwaukee Brewers,13566,R
+2021-05-25,Texas Rangers,Los Angeles Angels,10987,R
+2021-05-25,San Francisco Giants,Arizona Diamondbacks,10311,R
+2021-05-25,Atlanta Braves,Boston Red Sox,9357,R
+2021-05-25,Cleveland Indians,Detroit Tigers,8000,R
+2021-05-25,Los Angeles Dodgers,Houston Astros,34443,R
+2021-05-25,Cincinnati Reds,Washington Nationals,8935,R
+2021-05-25,Colorado Rockies,New York Mets,9190,R
+2021-05-26,Seattle Mariners,Oakland Athletics,3571,R
+2021-05-26,Chicago Cubs,Pittsburgh Pirates,5660,R
+2021-05-26,Kansas City Royals,Tampa Bay Rays,4973,R
+2021-05-26,Baltimore Orioles,Minnesota Twins,10574,R
+2021-05-26,St. Louis Cardinals,Chicago White Sox,14791,R
+2021-05-26,Philadelphia Phillies,Miami Marlins,4760,R
+2021-05-26,San Diego Padres,Milwaukee Brewers,13478,R
+2021-05-26,Texas Rangers,Los Angeles Angels,8547,R
+2021-05-26,San Francisco Giants,Arizona Diamondbacks,8597,R
+2021-05-26,Atlanta Braves,Boston Red Sox,9197,R
+2021-05-26,Cleveland Indians,Detroit Tigers,7525,R
+2021-05-26,Los Angeles Dodgers,Houston Astros,30939,R
+2021-05-26,Cincinnati Reds,Washington Nationals,7343,R
+2021-05-27,Los Angeles Angels,Oakland Athletics,5487,R
+2021-05-27,Chicago Cubs,Pittsburgh Pirates,7202,R
+2021-05-27,Texas Rangers,Seattle Mariners,9008,R
+2021-05-27,Kansas City Royals,Tampa Bay Rays,5519,R
+2021-05-27,Baltimore Orioles,Chicago White Sox,9671,R
+2021-05-27,Philadelphia Phillies,Miami Marlins,4932,R
+2021-05-27,Toronto Blue Jays,New York Yankees,14056,R
+2021-05-27,San Diego Padres,Milwaukee Brewers,13572,R
+2021-05-27,St. Louis Cardinals,Arizona Diamondbacks,8951,R
+2021-05-27,Cleveland Indians,Detroit Tigers,8000,R
+2021-05-27,San Francisco Giants,Los Angeles Dodgers,16343,R
+2021-05-27,Cincinnati Reds,Washington Nationals,9020,R
+2021-05-27,Colorado Rockies,New York Mets,9569,R
+2021-05-28,Los Angeles Angels,Oakland Athletics,8757,R
+2021-05-28,Texas Rangers,Seattle Mariners,10605,R
+2021-05-28,Kansas City Royals,Minnesota Twins,14260,R
+2021-05-28,St. Louis Cardinals,Arizona Diamondbacks,11581,R
+2021-05-28,Miami Marlins,Boston Red Sox,9005,R
+2021-05-28,Cincinnati Reds,Chicago Cubs,18478,R
+2021-05-28,Toronto Blue Jays,Cleveland Indians,9198,R
+2021-05-28,New York Yankees,Detroit Tigers,8000,R
+2021-05-28,San Diego Padres,Houston Astros,32045,R
+2021-05-28,San Francisco Giants,Los Angeles Dodgers,17873,R
+2021-05-29,Los Angeles Angels,Oakland Athletics,9433,R
+2021-05-29,Colorado Rockies,Pittsburgh Pirates,7183,R
+2021-05-29,Texas Rangers,Seattle Mariners,11071,R
+2021-05-29,Philadelphia Phillies,Tampa Bay Rays,7316,R
+2021-05-29,Kansas City Royals,Minnesota Twins,18444,R
+2021-05-29,Baltimore Orioles,Chicago White Sox,20029,R
+2021-05-29,St. Louis Cardinals,Arizona Diamondbacks,17834,R
+2021-05-29,Miami Marlins,Boston Red Sox,25089,R
+2021-05-29,Cincinnati Reds,Chicago Cubs,24275,R
+2021-05-29,New York Yankees,Detroit Tigers,8000,R
+2021-05-29,San Diego Padres,Houston Astros,31323,R
+2021-05-29,San Francisco Giants,Los Angeles Dodgers,19097,R
+2021-05-29,Milwaukee Brewers,Washington Nationals,12529,R
+2021-05-29,Atlanta Braves,New York Mets,10251,R
+2021-05-30,Los Angeles Angels,Oakland Athletics,10029,R
+2021-05-30,Colorado Rockies,Pittsburgh Pirates,7917,R
+2021-05-30,Texas Rangers,Seattle Mariners,11198,R
+2021-05-30,Philadelphia Phillies,Tampa Bay Rays,7479,R
+2021-05-30,Kansas City Royals,Minnesota Twins,17923,R
+2021-05-30,Baltimore Orioles,Chicago White Sox,21067,R
+2021-05-30,St. Louis Cardinals,Arizona Diamondbacks,16681,R
+2021-05-30,Cincinnati Reds,Chicago Cubs,24824,R
+2021-05-30,Toronto Blue Jays,Cleveland Indians,11690,R
+2021-05-30,New York Yankees,Detroit Tigers,8000,R
+2021-05-30,San Diego Padres,Houston Astros,29019,R
+2021-05-30,San Francisco Giants,Los Angeles Dodgers,18155,R
+2021-05-30,Milwaukee Brewers,Washington Nationals,15326,R
+2021-05-31,Oakland Athletics,Seattle Mariners,11112,R
+2021-05-31,Los Angeles Angels,San Francisco Giants,13144,R
+2021-05-31,Washington Nationals,Atlanta Braves,37668,R
+2021-05-31,Tampa Bay Rays,New York Yankees,17008,R
+2021-05-31,Detroit Tigers,Milwaukee Brewers,23917,R
+2021-05-31,New York Mets,Arizona Diamondbacks,11309,R
+2021-05-31,Minnesota Twins,Baltimore Orioles,11010,R
+2021-05-31,San Diego Padres,Chicago Cubs,24824,R
+2021-05-31,Philadelphia Phillies,Cincinnati Reds,17878,R
+2021-05-31,Chicago White Sox,Cleveland Indians,10726,R
+2021-05-31,Boston Red Sox,Houston Astros,28543,R
+2021-05-31,Pittsburgh Pirates,Kansas City Royals,12604,R
+2021-05-31,St. Louis Cardinals,Los Angeles Dodgers,18071,R
+2021-06-01,Oakland Athletics,Seattle Mariners,9160,R
+2021-06-01,Los Angeles Angels,San Francisco Giants,10546,R
+2021-06-01,Miami Marlins,Toronto Blue Jays,5321,R
+2021-06-01,Washington Nationals,Atlanta Braves,24083,R
+2021-06-01,Tampa Bay Rays,New York Yankees,12537,R
+2021-06-01,Detroit Tigers,Milwaukee Brewers,12058,R
+2021-06-01,New York Mets,Arizona Diamondbacks,9590,R
+2021-06-01,Minnesota Twins,Baltimore Orioles,5337,R
+2021-06-01,San Diego Padres,Chicago Cubs,24824,R
+2021-06-01,Philadelphia Phillies,Cincinnati Reds,10788,R
+2021-06-01,Chicago White Sox,Cleveland Indians,7132,R
+2021-06-01,Texas Rangers,Colorado Rockies,18028,R
+2021-06-01,Boston Red Sox,Houston Astros,23449,R
+2021-06-01,Pittsburgh Pirates,Kansas City Royals,10333,R
+2021-06-01,St. Louis Cardinals,Los Angeles Dodgers,15683,R
+2021-06-02,Oakland Athletics,Seattle Mariners,9588,R
+2021-06-02,Miami Marlins,Toronto Blue Jays,5385,R
+2021-06-02,Washington Nationals,Atlanta Braves,32752,R
+2021-06-02,Tampa Bay Rays,New York Yankees,13824,R
+2021-06-02,New York Mets,Arizona Diamondbacks,9810,R
+2021-06-02,Minnesota Twins,Baltimore Orioles,5945,R
+2021-06-02,San Diego Padres,Chicago Cubs,22056,R
+2021-06-02,Texas Rangers,Colorado Rockies,19289,R
+2021-06-02,Boston Red Sox,Houston Astros,22664,R
+2021-06-02,St. Louis Cardinals,Los Angeles Dodgers,15889,R
+2021-06-03,Miami Marlins,Pittsburgh Pirates,4192,R
+2021-06-03,New York Mets,San Diego Padres,15250,R
+2021-06-03,Chicago Cubs,San Francisco Giants,10737,R
+2021-06-03,Cincinnati Reds,St. Louis Cardinals,15327,R
+2021-06-03,Washington Nationals,Atlanta Braves,25595,R
+2021-06-03,Detroit Tigers,Chicago White Sox,12845,R
+2021-06-03,Tampa Bay Rays,New York Yankees,12614,R
+2021-06-03,Arizona Diamondbacks,Milwaukee Brewers,12392,R
+2021-06-03,Seattle Mariners,Los Angeles Angels,9714,R
+2021-06-03,Texas Rangers,Colorado Rockies,19150,R
+2021-06-03,Boston Red Sox,Houston Astros,24853,R
+2021-06-03,Minnesota Twins,Kansas City Royals,11072,R
+2021-06-04,Miami Marlins,Pittsburgh Pirates,8044,R
+2021-06-04,New York Mets,San Diego Padres,16268,R
+2021-06-04,Chicago Cubs,San Francisco Giants,11524,R
+2021-06-04,Cincinnati Reds,St. Louis Cardinals,22756,R
+2021-06-04,Tampa Bay Rays,Texas Rangers,30635,R
+2021-06-04,Houston Astros,Toronto Blue Jays,5510,R
+2021-06-04,Washington Nationals,Philadelphia Phillies,15030,R
+2021-06-04,Los Angeles Dodgers,Atlanta Braves,40514,R
+2021-06-04,Detroit Tigers,Chicago White Sox,21637,R
+2021-06-04,Boston Red Sox,New York Yankees,18040,R
+2021-06-04,Arizona Diamondbacks,Milwaukee Brewers,15261,R
+2021-06-04,Seattle Mariners,Los Angeles Angels,15141,R
+2021-06-04,Cleveland Indians,Baltimore Orioles,12009,R
+2021-06-04,Oakland Athletics,Colorado Rockies,26790,R
+2021-06-04,Minnesota Twins,Kansas City Royals,22612,R
+2021-06-05,Miami Marlins,Pittsburgh Pirates,8714,R
+2021-06-05,New York Mets,San Diego Padres,16644,R
+2021-06-05,Chicago Cubs,San Francisco Giants,12792,R
+2021-06-05,Cincinnati Reds,St. Louis Cardinals,23365,R
+2021-06-05,Tampa Bay Rays,Texas Rangers,27237,R
+2021-06-05,Houston Astros,Toronto Blue Jays,5327,R
+2021-06-05,Washington Nationals,Philadelphia Phillies,16118,R
+2021-06-05,Los Angeles Dodgers,Atlanta Braves,41136,R
+2021-06-05,Detroit Tigers,Chicago White Sox,21719,R
+2021-06-05,Boston Red Sox,New York Yankees,20019,R
+2021-06-05,Arizona Diamondbacks,Milwaukee Brewers,20073,R
+2021-06-05,Seattle Mariners,Los Angeles Angels,15071,R
+2021-06-05,Cleveland Indians,Baltimore Orioles,9969,R
+2021-06-05,Oakland Athletics,Colorado Rockies,27459,R
+2021-06-05,Minnesota Twins,Kansas City Royals,21574,R
+2021-06-06,Miami Marlins,Pittsburgh Pirates,5477,R
+2021-06-06,New York Mets,San Diego Padres,16120,R
+2021-06-06,Chicago Cubs,San Francisco Giants,14089,R
+2021-06-06,Cincinnati Reds,St. Louis Cardinals,21152,R
+2021-06-06,Tampa Bay Rays,Texas Rangers,26442,R
+2021-06-06,Houston Astros,Toronto Blue Jays,5404,R
+2021-06-06,Washington Nationals,Philadelphia Phillies,15108,R
+2021-06-06,Los Angeles Dodgers,Atlanta Braves,39439,R
+2021-06-06,Detroit Tigers,Chicago White Sox,20068,R
+2021-06-06,Boston Red Sox,New York Yankees,19103,R
+2021-06-06,Arizona Diamondbacks,Milwaukee Brewers,20117,R
+2021-06-06,Seattle Mariners,Los Angeles Angels,12833,R
+2021-06-06,Cleveland Indians,Baltimore Orioles,9423,R
+2021-06-06,Oakland Athletics,Colorado Rockies,23716,R
+2021-06-06,Minnesota Twins,Kansas City Royals,14046,R
+2021-06-07,Chicago Cubs,San Diego Padres,16045,R
+2021-06-07,Kansas City Royals,Los Angeles Angels,9481,R
+2021-06-07,Miami Marlins,Boston Red Sox,25374,R
+2021-06-08,Arizona Diamondbacks,Oakland Athletics,3695,R
+2021-06-08,Los Angeles Dodgers,Pittsburgh Pirates,9047,R
+2021-06-08,Chicago Cubs,San Diego Padres,16207,R
+2021-06-08,Cleveland Indians,St. Louis Cardinals,16178,R
+2021-06-08,Washington Nationals,Tampa Bay Rays,7173,R
+2021-06-08,San Francisco Giants,Texas Rangers,24938,R
+2021-06-08,New York Yankees,Minnesota Twins,17949,R
+2021-06-08,Atlanta Braves,Philadelphia Phillies,13125,R
+2021-06-08,Toronto Blue Jays,Chicago White Sox,12761,R
+2021-06-08,Colorado Rockies,Miami Marlins,4863,R
+2021-06-08,Kansas City Royals,Los Angeles Angels,9387,R
+2021-06-08,New York Mets,Baltimore Orioles,9431,R
+2021-06-08,Houston Astros,Boston Red Sox,23604,R
+2021-06-08,Milwaukee Brewers,Cincinnati Reds,11897,R
+2021-06-08,Seattle Mariners,Detroit Tigers,9081,R
+2021-06-09,Arizona Diamondbacks,Oakland Athletics,4090,R
+2021-06-09,Los Angeles Dodgers,Pittsburgh Pirates,10957,R
+2021-06-09,Chicago Cubs,San Diego Padres,16482,R
+2021-06-09,Cleveland Indians,St. Louis Cardinals,16331,R
+2021-06-09,Washington Nationals,Tampa Bay Rays,7616,R
+2021-06-09,San Francisco Giants,Texas Rangers,25803,R
+2021-06-09,New York Yankees,Minnesota Twins,17078,R
+2021-06-09,Atlanta Braves,Philadelphia Phillies,13552,R
+2021-06-09,Toronto Blue Jays,Chicago White Sox,14438,R
+2021-06-09,Colorado Rockies,Miami Marlins,4563,R
+2021-06-09,Kansas City Royals,Los Angeles Angels,10474,R
+2021-06-09,New York Mets,Baltimore Orioles,9584,R
+2021-06-09,Houston Astros,Boston Red Sox,21007,R
+2021-06-09,Milwaukee Brewers,Cincinnati Reds,11862,R
+2021-06-09,Seattle Mariners,Detroit Tigers,9162,R
+2021-06-10,Kansas City Royals,Oakland Athletics,3211,R
+2021-06-10,Los Angeles Dodgers,Pittsburgh Pirates,9396,R
+2021-06-10,New York Yankees,Minnesota Twins,17728,R
+2021-06-10,Atlanta Braves,Philadelphia Phillies,14261,R
+2021-06-10,Toronto Blue Jays,Chicago White Sox,16903,R
+2021-06-10,Colorado Rockies,Miami Marlins,4965,R
+2021-06-10,Houston Astros,Boston Red Sox,23378,R
+2021-06-10,Milwaukee Brewers,Cincinnati Reds,12423,R
+2021-06-10,Seattle Mariners,Detroit Tigers,9290,R
+2021-06-11,Kansas City Royals,Oakland Athletics,6964,R
+2021-06-11,Baltimore Orioles,Tampa Bay Rays,6211,R
+2021-06-11,Houston Astros,Minnesota Twins,17223,R
+2021-06-11,Atlanta Braves,Miami Marlins,6595,R
+2021-06-11,Pittsburgh Pirates,Milwaukee Brewers,17678,R
+2021-06-11,Los Angeles Angels,Arizona Diamondbacks,18458,R
+2021-06-11,Toronto Blue Jays,Boston Red Sox,25257,R
+2021-06-11,St. Louis Cardinals,Chicago Cubs,35112,R
+2021-06-11,Colorado Rockies,Cincinnati Reds,20505,R
+2021-06-11,Seattle Mariners,Cleveland Indians,22970,R
+2021-06-11,Chicago White Sox,Detroit Tigers,14163,R
+2021-06-11,Texas Rangers,Los Angeles Dodgers,20220,R
+2021-06-11,San Francisco Giants,Washington Nationals,18029,R
+2021-06-11,San Diego Padres,New York Mets,26637,R
+2021-06-12,Kansas City Royals,Oakland Athletics,7678,R
+2021-06-12,Baltimore Orioles,Tampa Bay Rays,9225,R
+2021-06-12,Houston Astros,Minnesota Twins,18767,R
+2021-06-12,New York Yankees,Philadelphia Phillies,38450,R
+2021-06-12,Atlanta Braves,Miami Marlins,8158,R
+2021-06-12,Pittsburgh Pirates,Milwaukee Brewers,20126,R
+2021-06-12,Los Angeles Angels,Arizona Diamondbacks,13863,R
+2021-06-12,Toronto Blue Jays,Boston Red Sox,24024,R
+2021-06-12,St. Louis Cardinals,Chicago Cubs,39095,R
+2021-06-12,Colorado Rockies,Cincinnati Reds,23765,R
+2021-06-12,Seattle Mariners,Cleveland Indians,20116,R
+2021-06-12,Chicago White Sox,Detroit Tigers,15913,R
+2021-06-12,Texas Rangers,Los Angeles Dodgers,17500,R
+2021-06-12,San Francisco Giants,Washington Nationals,24066,R
+2021-06-12,San Diego Padres,New York Mets,25463,R
+2021-06-13,Kansas City Royals,Oakland Athletics,7060,R
+2021-06-13,Baltimore Orioles,Tampa Bay Rays,9101,R
+2021-06-13,Houston Astros,Minnesota Twins,19147,R
+2021-06-13,New York Yankees,Philadelphia Phillies,38512,R
+2021-06-13,Atlanta Braves,Miami Marlins,8448,R
+2021-06-13,Pittsburgh Pirates,Milwaukee Brewers,20545,R
+2021-06-13,Los Angeles Angels,Arizona Diamondbacks,12768,R
+2021-06-13,Toronto Blue Jays,Boston Red Sox,22595,R
+2021-06-13,St. Louis Cardinals,Chicago Cubs,35225,R
+2021-06-13,Colorado Rockies,Cincinnati Reds,18268,R
+2021-06-13,Seattle Mariners,Cleveland Indians,17371,R
+2021-06-13,Chicago White Sox,Detroit Tigers,14093,R
+2021-06-13,Texas Rangers,Los Angeles Dodgers,15508,R
+2021-06-13,San Francisco Giants,Washington Nationals,21569,R
+2021-06-13,San Diego Padres,New York Mets,19581,R
+2021-06-14,Los Angeles Angels,Oakland Athletics,4102,R
+2021-06-14,Minnesota Twins,Seattle Mariners,9185,R
+2021-06-14,Arizona Diamondbacks,San Francisco Giants,9906,R
+2021-06-14,Miami Marlins,St. Louis Cardinals,24281,R
+2021-06-14,Tampa Bay Rays,Chicago White Sox,18024,R
+2021-06-14,Cincinnati Reds,Milwaukee Brewers,17127,R
+2021-06-14,Toronto Blue Jays,Boston Red Sox,20070,R
+2021-06-14,Baltimore Orioles,Cleveland Indians,11181,R
+2021-06-14,San Diego Padres,Colorado Rockies,23027,R
+2021-06-14,Detroit Tigers,Kansas City Royals,11910,R
+2021-06-14,Philadelphia Phillies,Los Angeles Dodgers,15761,R
+2021-06-14,Pittsburgh Pirates,Washington Nationals,14859,R
+2021-06-14,Chicago Cubs,New York Mets,16383,R
+2021-06-15,Los Angeles Angels,Oakland Athletics,4942,R
+2021-06-15,Minnesota Twins,Seattle Mariners,7669,R
+2021-06-15,Arizona Diamondbacks,San Francisco Giants,9867,R
+2021-06-15,Miami Marlins,St. Louis Cardinals,24736,R
+2021-06-15,New York Yankees,Toronto Blue Jays,7145,R
+2021-06-15,Boston Red Sox,Atlanta Braves,36638,R
+2021-06-15,Tampa Bay Rays,Chicago White Sox,19259,R
+2021-06-15,Cincinnati Reds,Milwaukee Brewers,16584,R
+2021-06-15,Baltimore Orioles,Cleveland Indians,12025,R
+2021-06-15,San Diego Padres,Colorado Rockies,22871,R
+2021-06-15,Texas Rangers,Houston Astros,26379,R
+2021-06-15,Detroit Tigers,Kansas City Royals,15947,R
+2021-06-15,Philadelphia Phillies,Los Angeles Dodgers,52078,R
+2021-06-15,Pittsburgh Pirates,Washington Nationals,16886,R
+2021-06-15,Chicago Cubs,New York Mets,17804,R
+2021-06-16,Los Angeles Angels,Oakland Athletics,6228,R
+2021-06-16,Minnesota Twins,Seattle Mariners,8098,R
+2021-06-16,Arizona Diamondbacks,San Francisco Giants,11004,R
+2021-06-16,Miami Marlins,St. Louis Cardinals,24682,R
+2021-06-16,New York Yankees,Toronto Blue Jays,7271,R
+2021-06-16,Boston Red Sox,Atlanta Braves,39847,R
+2021-06-16,Tampa Bay Rays,Chicago White Sox,20098,R
+2021-06-16,Cincinnati Reds,Milwaukee Brewers,20088,R
+2021-06-16,Baltimore Orioles,Cleveland Indians,12825,R
+2021-06-16,San Diego Padres,Colorado Rockies,18798,R
+2021-06-16,Texas Rangers,Houston Astros,22735,R
+2021-06-16,Detroit Tigers,Kansas City Royals,11327,R
+2021-06-16,Philadelphia Phillies,Los Angeles Dodgers,52157,R
+2021-06-16,Pittsburgh Pirates,Washington Nationals,16781,R
+2021-06-16,Chicago Cubs,New York Mets,23545,R
+2021-06-17,Cincinnati Reds,San Diego Padres,40362,R
+2021-06-17,Tampa Bay Rays,Seattle Mariners,9092,R
+2021-06-17,Arizona Diamondbacks,San Francisco Giants,13144,R
+2021-06-17,New York Yankees,Toronto Blue Jays,7288,R
+2021-06-17,St. Louis Cardinals,Atlanta Braves,33412,R
+2021-06-17,Detroit Tigers,Los Angeles Angels,30709,R
+2021-06-17,Baltimore Orioles,Cleveland Indians,15121,R
+2021-06-17,Milwaukee Brewers,Colorado Rockies,22756,R
+2021-06-17,Chicago White Sox,Houston Astros,21795,R
+2021-06-17,Chicago Cubs,New York Mets,16826,R
+2021-06-18,Cleveland Indians,Pittsburgh Pirates,16965,R
+2021-06-18,Cincinnati Reds,San Diego Padres,33456,R
+2021-06-18,Tampa Bay Rays,Seattle Mariners,12654,R
+2021-06-18,Philadelphia Phillies,San Francisco Giants,16170,R
+2021-06-18,Minnesota Twins,Texas Rangers,30304,R
+2021-06-18,St. Louis Cardinals,Atlanta Braves,40377,R
+2021-06-18,Oakland Athletics,New York Yankees,24037,R
+2021-06-18,Detroit Tigers,Los Angeles Angels,22734,R
+2021-06-18,Los Angeles Dodgers,Arizona Diamondbacks,25356,R
+2021-06-18,Toronto Blue Jays,Baltimore Orioles,13284,R
+2021-06-18,Miami Marlins,Chicago Cubs,32505,R
+2021-06-18,Milwaukee Brewers,Colorado Rockies,27117,R
+2021-06-18,Chicago White Sox,Houston Astros,30898,R
+2021-06-18,Boston Red Sox,Kansas City Royals,29870,R
+2021-06-18,New York Mets,Washington Nationals,26246,R
+2021-06-19,Cleveland Indians,Pittsburgh Pirates,16830,R
+2021-06-19,Cincinnati Reds,San Diego Padres,38765,R
+2021-06-19,Tampa Bay Rays,Seattle Mariners,14772,R
+2021-06-19,Philadelphia Phillies,San Francisco Giants,16774,R
+2021-06-19,Minnesota Twins,Texas Rangers,34044,R
+2021-06-19,Oakland Athletics,New York Yankees,23985,R
+2021-06-19,Detroit Tigers,Los Angeles Angels,23175,R
+2021-06-19,Los Angeles Dodgers,Arizona Diamondbacks,29904,R
+2021-06-19,Toronto Blue Jays,Baltimore Orioles,10721,R
+2021-06-19,Miami Marlins,Chicago Cubs,35846,R
+2021-06-19,Milwaukee Brewers,Colorado Rockies,34198,R
+2021-06-19,Chicago White Sox,Houston Astros,35210,R
+2021-06-19,Boston Red Sox,Kansas City Royals,24568,R
+2021-06-19,New York Mets,Washington Nationals,22111,R
+2021-06-20,Cleveland Indians,Pittsburgh Pirates,16582,R
+2021-06-20,Cincinnati Reds,San Diego Padres,38004,R
+2021-06-20,Tampa Bay Rays,Seattle Mariners,18172,R
+2021-06-20,Philadelphia Phillies,San Francisco Giants,18265,R
+2021-06-20,Minnesota Twins,Texas Rangers,34007,R
+2021-06-20,St. Louis Cardinals,Atlanta Braves,36977,R
+2021-06-20,Oakland Athletics,New York Yankees,27807,R
+2021-06-20,Detroit Tigers,Los Angeles Angels,21626,R
+2021-06-20,Los Angeles Dodgers,Arizona Diamondbacks,31661,R
+2021-06-20,Toronto Blue Jays,Baltimore Orioles,14917,R
+2021-06-20,Miami Marlins,Chicago Cubs,37158,R
+2021-06-20,Milwaukee Brewers,Colorado Rockies,34224,R
+2021-06-20,Chicago White Sox,Houston Astros,39821,R
+2021-06-20,Boston Red Sox,Kansas City Royals,20726,R
+2021-06-20,New York Mets,Washington Nationals,30371,R
+2021-06-21,Los Angeles Dodgers,San Diego Padres,42220,R
+2021-06-21,Oakland Athletics,Texas Rangers,20259,R
+2021-06-21,Cincinnati Reds,Minnesota Twins,17530,R
+2021-06-21,Milwaukee Brewers,Arizona Diamondbacks,9804,R
+2021-06-21,Houston Astros,Baltimore Orioles,7414,R
+2021-06-21,Cleveland Indians,Chicago Cubs,32934,R
+2021-06-21,Atlanta Braves,New York Mets,18698,R
+2021-06-22,Chicago White Sox,Pittsburgh Pirates,9847,R
+2021-06-22,Los Angeles Dodgers,San Diego Padres,42667,R
+2021-06-22,Colorado Rockies,Seattle Mariners,12879,R
+2021-06-22,Boston Red Sox,Tampa Bay Rays,12994,R
+2021-06-22,Oakland Athletics,Texas Rangers,19185,R
+2021-06-22,Cincinnati Reds,Minnesota Twins,19187,R
+2021-06-22,Washington Nationals,Philadelphia Phillies,19652,R
+2021-06-22,Toronto Blue Jays,Miami Marlins,6291,R
+2021-06-22,Kansas City Royals,New York Yankees,21130,R
+2021-06-22,San Francisco Giants,Los Angeles Angels,28354,R
+2021-06-22,Milwaukee Brewers,Arizona Diamondbacks,9358,R
+2021-06-22,Houston Astros,Baltimore Orioles,8510,R
+2021-06-22,Cleveland Indians,Chicago Cubs,35493,R
+2021-06-22,St. Louis Cardinals,Detroit Tigers,13492,R
+2021-06-22,Atlanta Braves,New York Mets,17063,R
+2021-06-23,Chicago White Sox,Pittsburgh Pirates,10406,R
+2021-06-23,Los Angeles Dodgers,San Diego Padres,43691,R
+2021-06-23,Colorado Rockies,Seattle Mariners,11141,R
+2021-06-23,Boston Red Sox,Tampa Bay Rays,9088,R
+2021-06-23,Oakland Athletics,Texas Rangers,21829,R
+2021-06-23,Washington Nationals,Philadelphia Phillies,17892,R
+2021-06-23,Toronto Blue Jays,Miami Marlins,6164,R
+2021-06-23,Kansas City Royals,New York Yankees,25032,R
+2021-06-23,San Francisco Giants,Los Angeles Angels,20620,R
+2021-06-23,Milwaukee Brewers,Arizona Diamondbacks,8676,R
+2021-06-23,Houston Astros,Baltimore Orioles,10013,R
+2021-06-23,St. Louis Cardinals,Detroit Tigers,13263,R
+2021-06-23,Atlanta Braves,New York Mets,15645,R
+2021-06-24,Pittsburgh Pirates,St. Louis Cardinals,33254,R
+2021-06-24,Boston Red Sox,Tampa Bay Rays,10961,R
+2021-06-24,Oakland Athletics,Texas Rangers,20432,R
+2021-06-24,Baltimore Orioles,Toronto Blue Jays,6264,R
+2021-06-24,Cleveland Indians,Minnesota Twins,18812,R
+2021-06-24,Washington Nationals,Miami Marlins,5255,R
+2021-06-24,Kansas City Royals,New York Yankees,21350,R
+2021-06-24,Atlanta Braves,Cincinnati Reds,23941,R
+2021-06-24,Houston Astros,Detroit Tigers,12656,R
+2021-06-24,Chicago Cubs,Los Angeles Dodgers,52175,R
+2021-06-25,Arizona Diamondbacks,San Diego Padres,32583,R
+2021-06-25,Oakland Athletics,San Francisco Giants,36928,R
+2021-06-25,Pittsburgh Pirates,St. Louis Cardinals,34812,R
+2021-06-25,Los Angeles Angels,Tampa Bay Rays,7909,R
+2021-06-25,Kansas City Royals,Texas Rangers,30389,R
+2021-06-25,Baltimore Orioles,Toronto Blue Jays,7844,R
+2021-06-25,Cleveland Indians,Minnesota Twins,16892,R
+2021-06-25,Seattle Mariners,Chicago White Sox,32189,R
+2021-06-25,Washington Nationals,Miami Marlins,4749,R
+2021-06-25,Colorado Rockies,Milwaukee Brewers,31140,R
+2021-06-25,New York Yankees,Boston Red Sox,36869,R
+2021-06-25,Atlanta Braves,Cincinnati Reds,30231,R
+2021-06-25,Chicago Cubs,Los Angeles Dodgers,49387,R
+2021-06-25,Philadelphia Phillies,New York Mets,29012,R
+2021-06-26,Arizona Diamondbacks,San Diego Padres,40557,R
+2021-06-26,Oakland Athletics,San Francisco Giants,33168,R
+2021-06-26,Pittsburgh Pirates,St. Louis Cardinals,33058,R
+2021-06-26,Los Angeles Angels,Tampa Bay Rays,16699,R
+2021-06-26,Kansas City Royals,Texas Rangers,31612,R
+2021-06-26,Baltimore Orioles,Toronto Blue Jays,5913,R
+2021-06-26,Seattle Mariners,Chicago White Sox,30017,R
+2021-06-26,Washington Nationals,Miami Marlins,6305,R
+2021-06-26,Colorado Rockies,Milwaukee Brewers,32573,R
+2021-06-26,New York Yankees,Boston Red Sox,36857,R
+2021-06-26,Atlanta Braves,Cincinnati Reds,34671,R
+2021-06-26,Houston Astros,Detroit Tigers,13950,R
+2021-06-26,Chicago Cubs,Los Angeles Dodgers,45420,R
+2021-06-26,Philadelphia Phillies,New York Mets,29205,R
+2021-06-27,Arizona Diamondbacks,San Diego Padres,34905,R
+2021-06-27,Oakland Athletics,San Francisco Giants,35920,R
+2021-06-27,Pittsburgh Pirates,St. Louis Cardinals,25163,R
+2021-06-27,Los Angeles Angels,Tampa Bay Rays,12764,R
+2021-06-27,Kansas City Royals,Texas Rangers,29046,R
+2021-06-27,Baltimore Orioles,Toronto Blue Jays,6044,R
+2021-06-27,Cleveland Indians,Minnesota Twins,20215,R
+2021-06-27,Seattle Mariners,Chicago White Sox,30017,R
+2021-06-27,Washington Nationals,Miami Marlins,7349,R
+2021-06-27,Colorado Rockies,Milwaukee Brewers,25016,R
+2021-06-27,New York Yankees,Boston Red Sox,34504,R
+2021-06-27,Atlanta Braves,Cincinnati Reds,21696,R
+2021-06-27,Houston Astros,Detroit Tigers,13532,R
+2021-06-27,Chicago Cubs,Los Angeles Dodgers,46315,R
+2021-06-27,Philadelphia Phillies,New York Mets,25488,R
+2021-06-28,Arizona Diamondbacks,St. Louis Cardinals,27175,R
+2021-06-28,Los Angeles Angels,New York Yankees,25054,R
+2021-06-28,Chicago Cubs,Milwaukee Brewers,30251,R
+2021-06-28,Kansas City Royals,Boston Red Sox,22766,R
+2021-06-28,Philadelphia Phillies,Cincinnati Reds,21006,R
+2021-06-28,Detroit Tigers,Cleveland Indians,13128,R
+2021-06-28,Pittsburgh Pirates,Colorado Rockies,32092,R
+2021-06-28,Baltimore Orioles,Houston Astros,24419,R
+2021-06-28,San Francisco Giants,Los Angeles Dodgers,47835,R
+2021-06-28,New York Mets,Washington Nationals,19150,R
+2021-06-29,Texas Rangers,Oakland Athletics,4739,R
+2021-06-29,Arizona Diamondbacks,St. Louis Cardinals,28740,R
+2021-06-29,Seattle Mariners,Toronto Blue Jays,6736,R
+2021-06-29,Miami Marlins,Philadelphia Phillies,18079,R
+2021-06-29,New York Mets,Atlanta Braves,29274,R
+2021-06-29,Minnesota Twins,Chicago White Sox,17382,R
+2021-06-29,Los Angeles Angels,New York Yankees,23152,R
+2021-06-29,Chicago Cubs,Milwaukee Brewers,24423,R
+2021-06-29,Kansas City Royals,Boston Red Sox,25180,R
+2021-06-29,San Diego Padres,Cincinnati Reds,16332,R
+2021-06-29,Pittsburgh Pirates,Colorado Rockies,27915,R
+2021-06-29,Baltimore Orioles,Houston Astros,30346,R
+2021-06-29,San Francisco Giants,Los Angeles Dodgers,52342,R
+2021-06-29,Tampa Bay Rays,Washington Nationals,17117,R
+2021-06-30,Texas Rangers,Oakland Athletics,4320,R
+2021-06-30,Arizona Diamondbacks,St. Louis Cardinals,27235,R
+2021-06-30,Seattle Mariners,Toronto Blue Jays,6632,R
+2021-06-30,Miami Marlins,Philadelphia Phillies,17190,R
+2021-06-30,New York Mets,Atlanta Braves,28405,R
+2021-06-30,Minnesota Twins,Chicago White Sox,16803,R
+2021-06-30,Los Angeles Angels,New York Yankees,30714,R
+2021-06-30,Chicago Cubs,Milwaukee Brewers,32193,R
+2021-06-30,Kansas City Royals,Boston Red Sox,24616,R
+2021-06-30,San Diego Padres,Cincinnati Reds,12084,R
+2021-06-30,Detroit Tigers,Cleveland Indians,11627,R
+2021-06-30,Pittsburgh Pirates,Colorado Rockies,20270,R
+2021-06-30,Baltimore Orioles,Houston Astros,28124,R
+2021-06-30,Tampa Bay Rays,Washington Nationals,15552,R
+2021-07-01,Texas Rangers,Oakland Athletics,5182,R
+2021-07-01,Milwaukee Brewers,Pittsburgh Pirates,11074,R
+2021-07-01,Seattle Mariners,Toronto Blue Jays,5456,R
+2021-07-01,New York Mets,Atlanta Braves,35777,R
+2021-07-01,Minnesota Twins,Chicago White Sox,24944,R
+2021-07-01,San Francisco Giants,Arizona Diamondbacks,9172,R
+2021-07-01,Kansas City Royals,Boston Red Sox,27913,R
+2021-07-01,San Diego Padres,Cincinnati Reds,16620,R
+2021-07-01,Houston Astros,Cleveland Indians,13772,R
+2021-07-01,St. Louis Cardinals,Colorado Rockies,30410,R
+2021-07-01,Los Angeles Dodgers,Washington Nationals,21285,R
+2021-07-02,Boston Red Sox,Oakland Athletics,32304,R
+2021-07-02,Milwaukee Brewers,Pittsburgh Pirates,15421,R
+2021-07-02,Texas Rangers,Seattle Mariners,28638,R
+2021-07-02,Tampa Bay Rays,Toronto Blue Jays,10011,R
+2021-07-02,San Diego Padres,Philadelphia Phillies,22653,R
+2021-07-02,Miami Marlins,Atlanta Braves,38203,R
+2021-07-02,Baltimore Orioles,Los Angeles Angels,23561,R
+2021-07-02,San Francisco Giants,Arizona Diamondbacks,12262,R
+2021-07-02,Chicago Cubs,Cincinnati Reds,40854,R
+2021-07-02,Houston Astros,Cleveland Indians,24337,R
+2021-07-02,St. Louis Cardinals,Colorado Rockies,47224,R
+2021-07-02,Chicago White Sox,Detroit Tigers,18185,R
+2021-07-02,Minnesota Twins,Kansas City Royals,31824,R
+2021-07-02,Los Angeles Dodgers,Washington Nationals,27689,R
+2021-07-03,Boston Red Sox,Oakland Athletics,16297,R
+2021-07-03,Milwaukee Brewers,Pittsburgh Pirates,17451,R
+2021-07-03,Texas Rangers,Seattle Mariners,16046,R
+2021-07-03,Tampa Bay Rays,Toronto Blue Jays,9189,R
+2021-07-03,San Diego Padres,Philadelphia Phillies,25053,R
+2021-07-03,Miami Marlins,Atlanta Braves,38526,R
+2021-07-03,New York Mets,New York Yankees,40047,R
+2021-07-03,Baltimore Orioles,Los Angeles Angels,28160,R
+2021-07-03,San Francisco Giants,Arizona Diamondbacks,23689,R
+2021-07-03,Chicago Cubs,Cincinnati Reds,36815,R
+2021-07-03,Houston Astros,Cleveland Indians,24961,R
+2021-07-03,St. Louis Cardinals,Colorado Rockies,48182,R
+2021-07-03,Chicago White Sox,Detroit Tigers,17230,R
+2021-07-03,Minnesota Twins,Kansas City Royals,16133,R
+2021-07-03,Los Angeles Dodgers,Washington Nationals,42064,R
+2021-07-04,Boston Red Sox,Oakland Athletics,13070,R
+2021-07-04,Milwaukee Brewers,Pittsburgh Pirates,12527,R
+2021-07-04,Texas Rangers,Seattle Mariners,15146,R
+2021-07-04,Tampa Bay Rays,Toronto Blue Jays,7537,R
+2021-07-04,San Diego Padres,Philadelphia Phillies,25592,R
+2021-07-04,Miami Marlins,Atlanta Braves,34485,R
+2021-07-04,New York Mets,New York Yankees,42714,R
+2021-07-04,Baltimore Orioles,Los Angeles Angels,18955,R
+2021-07-04,San Francisco Giants,Arizona Diamondbacks,27032,R
+2021-07-04,Chicago Cubs,Cincinnati Reds,29340,R
+2021-07-04,Houston Astros,Cleveland Indians,17412,R
+2021-07-04,St. Louis Cardinals,Colorado Rockies,36891,R
+2021-07-04,Chicago White Sox,Detroit Tigers,15342,R
+2021-07-04,Minnesota Twins,Kansas City Royals,15350,R
+2021-07-04,Los Angeles Dodgers,Washington Nationals,37187,R
+2021-07-05,Atlanta Braves,Pittsburgh Pirates,11600,R
+2021-07-05,Washington Nationals,San Diego Padres,33168,R
+2021-07-05,St. Louis Cardinals,San Francisco Giants,32644,R
+2021-07-05,Cleveland Indians,Tampa Bay Rays,8832,R
+2021-07-05,Detroit Tigers,Texas Rangers,34484,R
+2021-07-05,Chicago White Sox,Minnesota Twins,20321,R
+2021-07-05,Los Angeles Dodgers,Miami Marlins,15290,R
+2021-07-05,Boston Red Sox,Los Angeles Angels,38201,R
+2021-07-05,Philadelphia Phillies,Chicago Cubs,37165,R
+2021-07-05,Cincinnati Reds,Kansas City Royals,14709,R
+2021-07-05,Milwaukee Brewers,New York Mets,15145,R
+2021-07-06,Atlanta Braves,Pittsburgh Pirates,10844,R
+2021-07-06,Washington Nationals,San Diego Padres,29977,R
+2021-07-06,New York Yankees,Seattle Mariners,16547,R
+2021-07-06,St. Louis Cardinals,San Francisco Giants,18785,R
+2021-07-06,Detroit Tigers,Texas Rangers,24367,R
+2021-07-06,Chicago White Sox,Minnesota Twins,18437,R
+2021-07-06,Los Angeles Dodgers,Miami Marlins,7993,R
+2021-07-06,Boston Red Sox,Los Angeles Angels,28689,R
+2021-07-06,Colorado Rockies,Arizona Diamondbacks,6847,R
+2021-07-06,Toronto Blue Jays,Baltimore Orioles,7388,R
+2021-07-06,Philadelphia Phillies,Chicago Cubs,30095,R
+2021-07-06,Oakland Athletics,Houston Astros,26353,R
+2021-07-06,Cincinnati Reds,Kansas City Royals,14491,R
+2021-07-07,Atlanta Braves,Pittsburgh Pirates,10094,R
+2021-07-07,Washington Nationals,San Diego Padres,26353,R
+2021-07-07,New York Yankees,Seattle Mariners,17205,R
+2021-07-07,St. Louis Cardinals,San Francisco Giants,19067,R
+2021-07-07,Cleveland Indians,Tampa Bay Rays,10905,R
+2021-07-07,Detroit Tigers,Texas Rangers,33043,R
+2021-07-07,Chicago White Sox,Minnesota Twins,19664,R
+2021-07-07,Los Angeles Dodgers,Miami Marlins,9523,R
+2021-07-07,Boston Red Sox,Los Angeles Angels,20001,R
+2021-07-07,Colorado Rockies,Arizona Diamondbacks,7852,R
+2021-07-07,Toronto Blue Jays,Baltimore Orioles,7457,R
+2021-07-07,Philadelphia Phillies,Chicago Cubs,28860,R
+2021-07-07,Oakland Athletics,Houston Astros,21150,R
+2021-07-07,Cincinnati Reds,Kansas City Royals,11457,R
+2021-07-07,Milwaukee Brewers,New York Mets,20953,R
+2021-07-08,Washington Nationals,San Diego Padres,29434,R
+2021-07-08,New York Yankees,Seattle Mariners,17524,R
+2021-07-08,Detroit Tigers,Minnesota Twins,18192,R
+2021-07-08,Los Angeles Dodgers,Miami Marlins,12031,R
+2021-07-08,Cincinnati Reds,Milwaukee Brewers,22948,R
+2021-07-08,Colorado Rockies,Arizona Diamondbacks,7740,R
+2021-07-08,Philadelphia Phillies,Chicago Cubs,30727,R
+2021-07-08,Kansas City Royals,Cleveland Indians,13272,R
+2021-07-08,Oakland Athletics,Houston Astros,29243,R
+2021-07-09,Colorado Rockies,San Diego Padres,34953,R
+2021-07-09,Los Angeles Angels,Seattle Mariners,20381,R
+2021-07-09,Washington Nationals,San Francisco Giants,27345,R
+2021-07-09,Toronto Blue Jays,Tampa Bay Rays,8551,R
+2021-07-09,Oakland Athletics,Texas Rangers,29619,R
+2021-07-09,Detroit Tigers,Minnesota Twins,21725,R
+2021-07-09,Atlanta Braves,Miami Marlins,7446,R
+2021-07-09,Cincinnati Reds,Milwaukee Brewers,24844,R
+2021-07-09,Chicago White Sox,Baltimore Orioles,12077,R
+2021-07-09,Philadelphia Phillies,Boston Red Sox,32641,R
+2021-07-09,St. Louis Cardinals,Chicago Cubs,36192,R
+2021-07-09,Kansas City Royals,Cleveland Indians,21395,R
+2021-07-09,New York Yankees,Houston Astros,40857,R
+2021-07-09,Arizona Diamondbacks,Los Angeles Dodgers,49215,R
+2021-07-09,Pittsburgh Pirates,New York Mets,20350,R
+2021-07-10,Colorado Rockies,San Diego Padres,42351,R
+2021-07-10,Los Angeles Angels,Seattle Mariners,27353,R
+2021-07-10,Washington Nationals,San Francisco Giants,25901,R
+2021-07-10,Toronto Blue Jays,Tampa Bay Rays,9954,R
+2021-07-10,Oakland Athletics,Texas Rangers,30030,R
+2021-07-10,Detroit Tigers,Minnesota Twins,21030,R
+2021-07-10,Atlanta Braves,Miami Marlins,12178,R
+2021-07-10,Cincinnati Reds,Milwaukee Brewers,32034,R
+2021-07-10,Chicago White Sox,Baltimore Orioles,26391,R
+2021-07-10,Philadelphia Phillies,Boston Red Sox,33202,R
+2021-07-10,St. Louis Cardinals,Chicago Cubs,39368,R
+2021-07-10,Kansas City Royals,Cleveland Indians,24077,R
+2021-07-10,New York Yankees,Houston Astros,41259,R
+2021-07-10,Arizona Diamondbacks,Los Angeles Dodgers,44654,R
+2021-07-10,Pittsburgh Pirates,New York Mets,31924,R
+2021-07-11,Colorado Rockies,San Diego Padres,38235,R
+2021-07-11,Los Angeles Angels,Seattle Mariners,23348,R
+2021-07-11,Washington Nationals,San Francisco Giants,26639,R
+2021-07-11,Toronto Blue Jays,Tampa Bay Rays,11233,R
+2021-07-11,Oakland Athletics,Texas Rangers,30531,R
+2021-07-11,Detroit Tigers,Minnesota Twins,20744,R
+2021-07-11,Atlanta Braves,Miami Marlins,9456,R
+2021-07-11,Cincinnati Reds,Milwaukee Brewers,32135,R
+2021-07-11,Chicago White Sox,Baltimore Orioles,11600,R
+2021-07-11,Philadelphia Phillies,Boston Red Sox,32586,R
+2021-07-11,New York Yankees,Houston Astros,37928,R
+2021-07-11,Arizona Diamondbacks,Los Angeles Dodgers,40464,R
+2021-07-11,Pittsburgh Pirates,New York Mets,26420,R
+2021-07-16,Cleveland Indians,Oakland Athletics,12361,R
+2021-07-16,New York Mets,Pittsburgh Pirates,18119,R
+2021-07-16,San Francisco Giants,St. Louis Cardinals,33743,R
+2021-07-16,Texas Rangers,Toronto Blue Jays,10100,R
+2021-07-16,Miami Marlins,Philadelphia Phillies,28712,R
+2021-07-16,Tampa Bay Rays,Atlanta Braves,40485,R
+2021-07-16,Houston Astros,Chicago White Sox,34516,R
+2021-07-16,Boston Red Sox,New York Yankees,40130,R
+2021-07-16,Seattle Mariners,Los Angeles Angels,40880,R
+2021-07-16,Chicago Cubs,Arizona Diamondbacks,22046,R
+2021-07-16,Milwaukee Brewers,Cincinnati Reds,34844,R
+2021-07-16,Los Angeles Dodgers,Colorado Rockies,44251,R
+2021-07-16,Baltimore Orioles,Kansas City Royals,23763,R
+2021-07-16,San Diego Padres,Washington Nationals,29203,R
+2021-07-17,Cleveland Indians,Oakland Athletics,11374,R
+2021-07-17,New York Mets,Pittsburgh Pirates,27222,R
+2021-07-17,San Francisco Giants,St. Louis Cardinals,40489,R
+2021-07-17,Miami Marlins,Philadelphia Phillies,21390,R
+2021-07-17,Tampa Bay Rays,Atlanta Braves,40868,R
+2021-07-17,Houston Astros,Chicago White Sox,34304,R
+2021-07-17,Boston Red Sox,New York Yankees,37095,R
+2021-07-17,Seattle Mariners,Los Angeles Angels,28927,R
+2021-07-17,Chicago Cubs,Arizona Diamondbacks,20180,R
+2021-07-17,Milwaukee Brewers,Cincinnati Reds,37204,R
+2021-07-17,Los Angeles Dodgers,Colorado Rockies,48245,R
+2021-07-17,Minnesota Twins,Detroit Tigers,31624,R
+2021-07-17,Baltimore Orioles,Kansas City Royals,27292,R
+2021-07-17,San Diego Padres,Washington Nationals,33232,R
+2021-07-18,Cleveland Indians,Oakland Athletics,8572,R
+2021-07-18,New York Mets,Pittsburgh Pirates,17837,R
+2021-07-18,San Francisco Giants,St. Louis Cardinals,29425,R
+2021-07-18,Texas Rangers,Toronto Blue Jays,12335,R
+2021-07-18,Miami Marlins,Philadelphia Phillies,20588,R
+2021-07-18,Tampa Bay Rays,Atlanta Braves,34544,R
+2021-07-18,Houston Astros,Chicago White Sox,34148,R
+2021-07-18,Boston Red Sox,New York Yankees,40309,R
+2021-07-18,Seattle Mariners,Los Angeles Angels,23434,R
+2021-07-18,Chicago Cubs,Arizona Diamondbacks,21457,R
+2021-07-18,Milwaukee Brewers,Cincinnati Reds,29001,R
+2021-07-18,Los Angeles Dodgers,Colorado Rockies,35513,R
+2021-07-18,Minnesota Twins,Detroit Tigers,15854,R
+2021-07-18,Baltimore Orioles,Kansas City Royals,13706,R
+2021-07-18,San Diego Padres,Washington Nationals,27221,R
+2021-07-19,Los Angeles Angels,Oakland Athletics,14856,R
+2021-07-19,Chicago Cubs,St. Louis Cardinals,38199,R
+2021-07-19,Baltimore Orioles,Tampa Bay Rays,9922,R
+2021-07-19,Boston Red Sox,Toronto Blue Jays,12811,R
+2021-07-19,Minnesota Twins,Chicago White Sox,18272,R
+2021-07-19,Pittsburgh Pirates,Arizona Diamondbacks,9173,R
+2021-07-19,New York Mets,Cincinnati Reds,17080,R
+2021-07-19,Texas Rangers,Detroit Tigers,13704,R
+2021-07-19,Cleveland Indians,Houston Astros,21963,R
+2021-07-19,San Francisco Giants,Los Angeles Dodgers,50970,R
+2021-07-19,Miami Marlins,Washington Nationals,15283,R
+2021-07-20,Los Angeles Angels,Oakland Athletics,9154,R
+2021-07-20,Chicago Cubs,St. Louis Cardinals,35402,R
+2021-07-20,Baltimore Orioles,Tampa Bay Rays,10399,R
+2021-07-20,San Diego Padres,Atlanta Braves,36621,R
+2021-07-20,Minnesota Twins,Chicago White Sox,17703,R
+2021-07-20,Philadelphia Phillies,New York Yankees,36106,R
+2021-07-20,Kansas City Royals,Milwaukee Brewers,20140,R
+2021-07-20,Pittsburgh Pirates,Arizona Diamondbacks,7283,R
+2021-07-20,New York Mets,Cincinnati Reds,19096,R
+2021-07-20,Seattle Mariners,Colorado Rockies,30715,R
+2021-07-20,Texas Rangers,Detroit Tigers,13333,R
+2021-07-20,Cleveland Indians,Houston Astros,26586,R
+2021-07-20,San Francisco Giants,Los Angeles Dodgers,42344,R
+2021-07-20,Miami Marlins,Washington Nationals,17362,R
+2021-07-21,Chicago Cubs,St. Louis Cardinals,37008,R
+2021-07-21,Baltimore Orioles,Tampa Bay Rays,8968,R
+2021-07-21,Boston Red Sox,Toronto Blue Jays,14607,R
+2021-07-21,San Diego Padres,Atlanta Braves,28621,R
+2021-07-21,Minnesota Twins,Chicago White Sox,25600,R
+2021-07-21,Philadelphia Phillies,New York Yankees,34112,R
+2021-07-21,Kansas City Royals,Milwaukee Brewers,30063,R
+2021-07-21,Pittsburgh Pirates,Arizona Diamondbacks,7863,R
+2021-07-21,New York Mets,Cincinnati Reds,19896,R
+2021-07-21,Seattle Mariners,Colorado Rockies,25053,R
+2021-07-21,Texas Rangers,Detroit Tigers,21132,R
+2021-07-21,Cleveland Indians,Houston Astros,21712,R
+2021-07-21,San Francisco Giants,Los Angeles Dodgers,52076,R
+2021-07-21,Miami Marlins,Washington Nationals,21058,R
+2021-07-22,Oakland Athletics,Seattle Mariners,18553,R
+2021-07-22,Chicago Cubs,St. Louis Cardinals,41412,R
+2021-07-22,Los Angeles Angels,Minnesota Twins,23337,R
+2021-07-22,Atlanta Braves,Philadelphia Phillies,22645,R
+2021-07-22,San Diego Padres,Miami Marlins,10977,R
+2021-07-22,New York Yankees,Boston Red Sox,34761,R
+2021-07-22,Tampa Bay Rays,Cleveland Indians,19338,R
+2021-07-22,Texas Rangers,Detroit Tigers,16033,R
+2021-07-22,San Francisco Giants,Los Angeles Dodgers,47312,R
+2021-07-23,Oakland Athletics,Seattle Mariners,21312,R
+2021-07-23,Pittsburgh Pirates,San Francisco Giants,26579,R
+2021-07-23,Los Angeles Angels,Minnesota Twins,21384,R
+2021-07-23,Atlanta Braves,Philadelphia Phillies,23546,R
+2021-07-23,San Diego Padres,Miami Marlins,9264,R
+2021-07-23,Chicago White Sox,Milwaukee Brewers,32714,R
+2021-07-23,Washington Nationals,Baltimore Orioles,17022,R
+2021-07-23,New York Yankees,Boston Red Sox,34922,R
+2021-07-23,Arizona Diamondbacks,Chicago Cubs,34059,R
+2021-07-23,St. Louis Cardinals,Cincinnati Reds,30605,R
+2021-07-23,Tampa Bay Rays,Cleveland Indians,23180,R
+2021-07-23,Texas Rangers,Houston Astros,38853,R
+2021-07-23,Detroit Tigers,Kansas City Royals,24912,R
+2021-07-23,Colorado Rockies,Los Angeles Dodgers,43730,R
+2021-07-23,Toronto Blue Jays,New York Mets,28126,R
+2021-07-24,Oakland Athletics,Seattle Mariners,30843,R
+2021-07-24,Pittsburgh Pirates,San Francisco Giants,30780,R
+2021-07-24,Los Angeles Angels,Minnesota Twins,22240,R
+2021-07-24,Atlanta Braves,Philadelphia Phillies,24479,R
+2021-07-24,San Diego Padres,Miami Marlins,13207,R
+2021-07-24,Chicago White Sox,Milwaukee Brewers,41686,R
+2021-07-24,Washington Nationals,Baltimore Orioles,30898,R
+2021-07-24,New York Yankees,Boston Red Sox,35136,R
+2021-07-24,Arizona Diamondbacks,Chicago Cubs,37190,R
+2021-07-24,St. Louis Cardinals,Cincinnati Reds,33489,R
+2021-07-24,Tampa Bay Rays,Cleveland Indians,23324,R
+2021-07-24,Texas Rangers,Houston Astros,37050,R
+2021-07-24,Detroit Tigers,Kansas City Royals,24616,R
+2021-07-24,Colorado Rockies,Los Angeles Dodgers,42245,R
+2021-07-24,Toronto Blue Jays,New York Mets,29269,R
+2021-07-25,Oakland Athletics,Seattle Mariners,21501,R
+2021-07-25,Pittsburgh Pirates,San Francisco Giants,30303,R
+2021-07-25,Los Angeles Angels,Minnesota Twins,23158,R
+2021-07-25,Atlanta Braves,Philadelphia Phillies,19370,R
+2021-07-25,San Diego Padres,Miami Marlins,12765,R
+2021-07-25,Chicago White Sox,Milwaukee Brewers,36887,R
+2021-07-25,Washington Nationals,Baltimore Orioles,15690,R
+2021-07-25,New York Yankees,Boston Red Sox,32009,R
+2021-07-25,Arizona Diamondbacks,Chicago Cubs,32602,R
+2021-07-25,St. Louis Cardinals,Cincinnati Reds,21947,R
+2021-07-25,Tampa Bay Rays,Cleveland Indians,18614,R
+2021-07-25,Texas Rangers,Houston Astros,35627,R
+2021-07-25,Detroit Tigers,Kansas City Royals,12703,R
+2021-07-25,Colorado Rockies,Los Angeles Dodgers,42621,R
+2021-07-25,Toronto Blue Jays,New York Mets,23675,R
+2021-07-26,Houston Astros,Seattle Mariners,15162,R
+2021-07-26,Detroit Tigers,Minnesota Twins,17713,R
+2021-07-26,Washington Nationals,Philadelphia Phillies,23265,R
+2021-07-26,Colorado Rockies,Los Angeles Angels,22751,R
+2021-07-26,Toronto Blue Jays,Boston Red Sox,27142,R
+2021-07-26,Cincinnati Reds,Chicago Cubs,29215,R
+2021-07-26,Chicago White Sox,Kansas City Royals,12384,R
+2021-07-26,Atlanta Braves,New York Mets,24384,R
+2021-07-27,Milwaukee Brewers,Pittsburgh Pirates,10618,R
+2021-07-27,Oakland Athletics,San Diego Padres,40162,R
+2021-07-27,Houston Astros,Seattle Mariners,18930,R
+2021-07-27,Los Angeles Dodgers,San Francisco Giants,32878,R
+2021-07-27,New York Yankees,Tampa Bay Rays,12678,R
+2021-07-27,Arizona Diamondbacks,Texas Rangers,27336,R
+2021-07-27,Detroit Tigers,Minnesota Twins,17643,R
+2021-07-27,Washington Nationals,Philadelphia Phillies,20135,R
+2021-07-27,Colorado Rockies,Los Angeles Angels,16115,R
+2021-07-27,Miami Marlins,Baltimore Orioles,10098,R
+2021-07-27,Cincinnati Reds,Chicago Cubs,28153,R
+2021-07-27,St. Louis Cardinals,Cleveland Indians,19480,R
+2021-07-27,Chicago White Sox,Kansas City Royals,14298,R
+2021-07-27,Atlanta Braves,New York Mets,24000,R
+2021-07-28,Milwaukee Brewers,Pittsburgh Pirates,10204,R
+2021-07-28,Oakland Athletics,San Diego Padres,35351,R
+2021-07-28,Houston Astros,Seattle Mariners,18908,R
+2021-07-28,Los Angeles Dodgers,San Francisco Giants,33728,R
+2021-07-28,New York Yankees,Tampa Bay Rays,11525,R
+2021-07-28,Arizona Diamondbacks,Texas Rangers,26607,R
+2021-07-28,Detroit Tigers,Minnesota Twins,17817,R
+2021-07-28,Colorado Rockies,Los Angeles Angels,16365,R
+2021-07-28,Miami Marlins,Baltimore Orioles,8363,R
+2021-07-28,Toronto Blue Jays,Boston Red Sox,27783,R
+2021-07-28,Cincinnati Reds,Chicago Cubs,30134,R
+2021-07-28,St. Louis Cardinals,Cleveland Indians,19927,R
+2021-07-28,Chicago White Sox,Kansas City Royals,13626,R
+2021-07-28,Atlanta Braves,New York Mets,25787,R
+2021-07-29,Milwaukee Brewers,Pittsburgh Pirates,10503,R
+2021-07-29,Colorado Rockies,San Diego Padres,31884,R
+2021-07-29,Los Angeles Dodgers,San Francisco Giants,35136,R
+2021-07-29,New York Yankees,Tampa Bay Rays,14134,R
+2021-07-29,Washington Nationals,Philadelphia Phillies,19219,R
+2021-07-29,Oakland Athletics,Los Angeles Angels,18631,R
+2021-07-29,Toronto Blue Jays,Boston Red Sox,33191,R
+2021-07-29,Cincinnati Reds,Chicago Cubs,32793,R
+2021-07-29,Baltimore Orioles,Detroit Tigers,15833,R
+2021-07-29,Chicago White Sox,Kansas City Royals,11210,R
+2021-07-29,Atlanta Braves,New York Mets,26080,R
+2021-07-30,Philadelphia Phillies,Pittsburgh Pirates,20591,R
+2021-07-30,Colorado Rockies,San Diego Padres,38686,R
+2021-07-30,Houston Astros,San Francisco Giants,28020,R
+2021-07-30,Minnesota Twins,St. Louis Cardinals,34036,R
+2021-07-30,Boston Red Sox,Tampa Bay Rays,11109,R
+2021-07-30,Seattle Mariners,Texas Rangers,27542,R
+2021-07-30,Kansas City Royals,Toronto Blue Jays,13446,R
+2021-07-30,Milwaukee Brewers,Atlanta Braves,38680,R
+2021-07-30,Cleveland Indians,Chicago White Sox,36123,R
+2021-07-30,New York Yankees,Miami Marlins,18462,R
+2021-07-30,Oakland Athletics,Los Angeles Angels,28861,R
+2021-07-30,Los Angeles Dodgers,Arizona Diamondbacks,20780,R
+2021-07-30,Baltimore Orioles,Detroit Tigers,18861,R
+2021-07-30,Chicago Cubs,Washington Nationals,33882,R
+2021-07-30,Cincinnati Reds,New York Mets,31787,R
+2021-07-31,Philadelphia Phillies,Pittsburgh Pirates,32071,R
+2021-07-31,Colorado Rockies,San Diego Padres,44144,R
+2021-07-31,Houston Astros,San Francisco Giants,27324,R
+2021-07-31,Minnesota Twins,St. Louis Cardinals,33432,R
+2021-07-31,Boston Red Sox,Tampa Bay Rays,20521,R
+2021-07-31,Seattle Mariners,Texas Rangers,33463,R
+2021-07-31,Kansas City Royals,Toronto Blue Jays,13953,R
+2021-07-31,Milwaukee Brewers,Atlanta Braves,39088,R
+2021-07-31,Cleveland Indians,Chicago White Sox,35866,R
+2021-07-31,New York Yankees,Miami Marlins,25767,R
+2021-07-31,Oakland Athletics,Los Angeles Angels,23207,R
+2021-07-31,Los Angeles Dodgers,Arizona Diamondbacks,23814,R
+2021-07-31,Baltimore Orioles,Detroit Tigers,25132,R
+2021-07-31,Chicago Cubs,Washington Nationals,31444,R
+2021-07-31,Cincinnati Reds,New York Mets,26477,R
+2021-08-01,Philadelphia Phillies,Pittsburgh Pirates,17875,R
+2021-08-01,Colorado Rockies,San Diego Padres,36247,R
+2021-08-01,Houston Astros,San Francisco Giants,29655,R
+2021-08-01,Minnesota Twins,St. Louis Cardinals,28975,R
+2021-08-01,Boston Red Sox,Tampa Bay Rays,17816,R
+2021-08-01,Seattle Mariners,Texas Rangers,23664,R
+2021-08-01,Kansas City Royals,Toronto Blue Jays,14427,R
+2021-08-01,Milwaukee Brewers,Atlanta Braves,33469,R
+2021-08-01,Cleveland Indians,Chicago White Sox,34344,R
+2021-08-01,New York Yankees,Miami Marlins,20758,R
+2021-08-01,Oakland Athletics,Los Angeles Angels,21597,R
+2021-08-01,Los Angeles Dodgers,Arizona Diamondbacks,17195,R
+2021-08-01,Baltimore Orioles,Detroit Tigers,17134,R
+2021-08-01,Chicago Cubs,Washington Nationals,25520,R
+2021-08-01,Cincinnati Reds,New York Mets,23443,R
+2021-08-02,Seattle Mariners,Tampa Bay Rays,5855,R
+2021-08-02,Los Angeles Angels,Texas Rangers,20533,R
+2021-08-02,Cleveland Indians,Toronto Blue Jays,14653,R
+2021-08-02,New York Mets,Miami Marlins,8771,R
+2021-08-02,Baltimore Orioles,New York Yankees,28879,R
+2021-08-02,Pittsburgh Pirates,Milwaukee Brewers,23563,R
+2021-08-02,San Francisco Giants,Arizona Diamondbacks,8904,R
+2021-08-02,Philadelphia Phillies,Washington Nationals,16393,R
+2021-08-03,San Diego Padres,Oakland Athletics,11985,R
+2021-08-03,Atlanta Braves,St. Louis Cardinals,31509,R
+2021-08-03,Seattle Mariners,Tampa Bay Rays,10071,R
+2021-08-03,Los Angeles Angels,Texas Rangers,19074,R
+2021-08-03,Cleveland Indians,Toronto Blue Jays,14270,R
+2021-08-03,Kansas City Royals,Chicago White Sox,19369,R
+2021-08-03,New York Mets,Miami Marlins,7682,R
+2021-08-03,Baltimore Orioles,New York Yankees,30815,R
+2021-08-03,Pittsburgh Pirates,Milwaukee Brewers,24902,R
+2021-08-03,San Francisco Giants,Arizona Diamondbacks,8809,R
+2021-08-03,Minnesota Twins,Cincinnati Reds,18396,R
+2021-08-03,Chicago Cubs,Colorado Rockies,38188,R
+2021-08-03,Boston Red Sox,Detroit Tigers,15724,R
+2021-08-03,Houston Astros,Los Angeles Dodgers,52692,R
+2021-08-03,Philadelphia Phillies,Washington Nationals,17417,R
+2021-08-04,San Diego Padres,Oakland Athletics,10648,R
+2021-08-04,Atlanta Braves,St. Louis Cardinals,32205,R
+2021-08-04,Seattle Mariners,Tampa Bay Rays,9701,R
+2021-08-04,Los Angeles Angels,Texas Rangers,27360,R
+2021-08-04,Cleveland Indians,Toronto Blue Jays,14410,R
+2021-08-04,Kansas City Royals,Chicago White Sox,22793,R
+2021-08-04,New York Mets,Miami Marlins,9760,R
+2021-08-04,Baltimore Orioles,New York Yankees,30055,R
+2021-08-04,Pittsburgh Pirates,Milwaukee Brewers,28003,R
+2021-08-04,San Francisco Giants,Arizona Diamondbacks,8091,R
+2021-08-04,Minnesota Twins,Cincinnati Reds,16828,R
+2021-08-04,Chicago Cubs,Colorado Rockies,36205,R
+2021-08-04,Boston Red Sox,Detroit Tigers,16633,R
+2021-08-04,Houston Astros,Los Angeles Dodgers,52724,R
+2021-08-04,Philadelphia Phillies,Washington Nationals,18482,R
+2021-08-05,Atlanta Braves,St. Louis Cardinals,30549,R
+2021-08-05,Los Angeles Angels,Texas Rangers,21670,R
+2021-08-05,Cleveland Indians,Toronto Blue Jays,14289,R
+2021-08-05,Kansas City Royals,Chicago White Sox,23589,R
+2021-08-05,New York Mets,Miami Marlins,9745,R
+2021-08-05,Seattle Mariners,New York Yankees,33211,R
+2021-08-05,San Francisco Giants,Arizona Diamondbacks,8773,R
+2021-08-05,Pittsburgh Pirates,Cincinnati Reds,19393,R
+2021-08-05,Chicago Cubs,Colorado Rockies,30462,R
+2021-08-05,Boston Red Sox,Detroit Tigers,19144,R
+2021-08-05,Minnesota Twins,Houston Astros,26208,R
+2021-08-05,Philadelphia Phillies,Washington Nationals,22575,R
+2021-08-06,Texas Rangers,Oakland Athletics,9022,R
+2021-08-06,Arizona Diamondbacks,San Diego Padres,34038,R
+2021-08-06,Kansas City Royals,St. Louis Cardinals,29090,R
+2021-08-06,Boston Red Sox,Toronto Blue Jays,14719,R
+2021-08-06,New York Mets,Philadelphia Phillies,30106,R
+2021-08-06,Washington Nationals,Atlanta Braves,34454,R
+2021-08-06,Seattle Mariners,New York Yankees,43180,R
+2021-08-06,San Francisco Giants,Milwaukee Brewers,33250,R
+2021-08-06,Tampa Bay Rays,Baltimore Orioles,11320,R
+2021-08-06,Chicago White Sox,Chicago Cubs,39539,R
+2021-08-06,Pittsburgh Pirates,Cincinnati Reds,27804,R
+2021-08-06,Detroit Tigers,Cleveland Indians,24485,R
+2021-08-06,Miami Marlins,Colorado Rockies,28281,R
+2021-08-06,Minnesota Twins,Houston Astros,29631,R
+2021-08-06,Los Angeles Angels,Los Angeles Dodgers,50822,R
+2021-08-07,Texas Rangers,Oakland Athletics,10082,R
+2021-08-07,Arizona Diamondbacks,San Diego Padres,39134,R
+2021-08-07,Kansas City Royals,St. Louis Cardinals,36615,R
+2021-08-07,Boston Red Sox,Toronto Blue Jays,14768,R
+2021-08-07,New York Mets,Philadelphia Phillies,37057,R
+2021-08-07,Washington Nationals,Atlanta Braves,38300,R
+2021-08-07,Seattle Mariners,New York Yankees,35165,R
+2021-08-07,San Francisco Giants,Milwaukee Brewers,34155,R
+2021-08-07,Tampa Bay Rays,Baltimore Orioles,18545,R
+2021-08-07,Chicago White Sox,Chicago Cubs,40077,R
+2021-08-07,Pittsburgh Pirates,Cincinnati Reds,31297,R
+2021-08-07,Detroit Tigers,Cleveland Indians,24560,R
+2021-08-07,Miami Marlins,Colorado Rockies,39896,R
+2021-08-07,Minnesota Twins,Houston Astros,29647,R
+2021-08-07,Los Angeles Angels,Los Angeles Dodgers,50808,R
+2021-08-08,Texas Rangers,Oakland Athletics,9548,R
+2021-08-08,Arizona Diamondbacks,San Diego Padres,30989,R
+2021-08-08,Kansas City Royals,St. Louis Cardinals,31943,R
+2021-08-08,Boston Red Sox,Toronto Blue Jays,14766,R
+2021-08-08,New York Mets,Philadelphia Phillies,39186,R
+2021-08-08,Washington Nationals,Atlanta Braves,29101,R
+2021-08-08,Seattle Mariners,New York Yankees,35437,R
+2021-08-08,San Francisco Giants,Milwaukee Brewers,38597,R
+2021-08-08,Tampa Bay Rays,Baltimore Orioles,10576,R
+2021-08-08,Chicago White Sox,Chicago Cubs,39412,R
+2021-08-08,Pittsburgh Pirates,Cincinnati Reds,23740,R
+2021-08-08,Detroit Tigers,Cleveland Indians,19899,R
+2021-08-08,Miami Marlins,Colorado Rockies,34677,R
+2021-08-08,Minnesota Twins,Houston Astros,26825,R
+2021-08-08,Los Angeles Angels,Los Angeles Dodgers,46982,R
+2021-08-09,Miami Marlins,San Diego Padres,26841,R
+2021-08-09,Chicago White Sox,Minnesota Twins,17858,R
+2021-08-09,Cincinnati Reds,Cleveland Indians,10708,R
+2021-08-09,New York Yankees,Kansas City Royals,18477,R
+2021-08-10,St. Louis Cardinals,Pittsburgh Pirates,10056,R
+2021-08-10,Miami Marlins,San Diego Padres,32060,R
+2021-08-10,Texas Rangers,Seattle Mariners,15412,R
+2021-08-10,Arizona Diamondbacks,San Francisco Giants,23802,R
+2021-08-10,Chicago White Sox,Minnesota Twins,18302,R
+2021-08-10,Los Angeles Dodgers,Philadelphia Phillies,28333,R
+2021-08-10,Cincinnati Reds,Atlanta Braves,24432,R
+2021-08-10,Toronto Blue Jays,Los Angeles Angels,14443,R
+2021-08-10,Detroit Tigers,Baltimore Orioles,7124,R
+2021-08-10,Tampa Bay Rays,Boston Red Sox,28356,R
+2021-08-10,Milwaukee Brewers,Chicago Cubs,29031,R
+2021-08-10,Oakland Athletics,Cleveland Indians,13041,R
+2021-08-10,Colorado Rockies,Houston Astros,28931,R
+2021-08-10,New York Yankees,Kansas City Royals,18218,R
+2021-08-10,Washington Nationals,New York Mets,27261,R
+2021-08-11,St. Louis Cardinals,Pittsburgh Pirates,8548,R
+2021-08-11,Miami Marlins,San Diego Padres,29753,R
+2021-08-11,Texas Rangers,Seattle Mariners,15789,R
+2021-08-11,Arizona Diamondbacks,San Francisco Giants,20037,R
+2021-08-11,Chicago White Sox,Minnesota Twins,22370,R
+2021-08-11,Los Angeles Dodgers,Philadelphia Phillies,32186,R
+2021-08-11,Cincinnati Reds,Atlanta Braves,23375,R
+2021-08-11,Toronto Blue Jays,Los Angeles Angels,22620,R
+2021-08-11,Detroit Tigers,Baltimore Orioles,8990,R
+2021-08-11,Tampa Bay Rays,Boston Red Sox,30286,R
+2021-08-11,Milwaukee Brewers,Chicago Cubs,29619,R
+2021-08-11,Oakland Athletics,Cleveland Indians,13560,R
+2021-08-11,Colorado Rockies,Houston Astros,22200,R
+2021-08-11,New York Yankees,Kansas City Royals,13748,R
+2021-08-12,St. Louis Cardinals,Pittsburgh Pirates,8676,R
+2021-08-12,Texas Rangers,Seattle Mariners,14031,R
+2021-08-12,Colorado Rockies,San Francisco Giants,24295,R
+2021-08-12,Los Angeles Dodgers,Philadelphia Phillies,26122,R
+2021-08-12,Cincinnati Reds,Atlanta Braves,23995,R
+2021-08-12,New York Yankees,Chicago White Sox,7832,R
+2021-08-12,Toronto Blue Jays,Los Angeles Angels,19590,R
+2021-08-12,San Diego Padres,Arizona Diamondbacks,9086,R
+2021-08-12,Detroit Tigers,Baltimore Orioles,8382,R
+2021-08-12,Tampa Bay Rays,Boston Red Sox,26803,R
+2021-08-12,Milwaukee Brewers,Chicago Cubs,32502,R
+2021-08-12,Oakland Athletics,Cleveland Indians,16559,R
+2021-08-12,Washington Nationals,New York Mets,25870,R
+2021-08-13,Toronto Blue Jays,Seattle Mariners,28207,R
+2021-08-13,Colorado Rockies,San Francisco Giants,36126,R
+2021-08-13,Oakland Athletics,Texas Rangers,26761,R
+2021-08-13,Tampa Bay Rays,Minnesota Twins,23125,R
+2021-08-13,Cincinnati Reds,Philadelphia Phillies,26074,R
+2021-08-13,Chicago Cubs,Miami Marlins,11728,R
+2021-08-13,Houston Astros,Los Angeles Angels,23981,R
+2021-08-13,San Diego Padres,Arizona Diamondbacks,12866,R
+2021-08-13,Baltimore Orioles,Boston Red Sox,28022,R
+2021-08-13,Cleveland Indians,Detroit Tigers,22107,R
+2021-08-13,St. Louis Cardinals,Kansas City Royals,30620,R
+2021-08-13,Atlanta Braves,Washington Nationals,24812,R
+2021-08-13,Los Angeles Dodgers,New York Mets,38395,R
+2021-08-14,Milwaukee Brewers,Pittsburgh Pirates,24081,R
+2021-08-14,Toronto Blue Jays,Seattle Mariners,26020,R
+2021-08-14,Colorado Rockies,San Francisco Giants,32282,R
+2021-08-14,Oakland Athletics,Texas Rangers,31904,R
+2021-08-14,Tampa Bay Rays,Minnesota Twins,21034,R
+2021-08-14,Cincinnati Reds,Philadelphia Phillies,25100,R
+2021-08-14,New York Yankees,Chicago White Sox,38477,R
+2021-08-14,Chicago Cubs,Miami Marlins,11225,R
+2021-08-14,Houston Astros,Los Angeles Angels,27121,R
+2021-08-14,San Diego Padres,Arizona Diamondbacks,16716,R
+2021-08-14,Baltimore Orioles,Boston Red Sox,33118,R
+2021-08-14,Cleveland Indians,Detroit Tigers,32845,R
+2021-08-14,St. Louis Cardinals,Kansas City Royals,35784,R
+2021-08-14,Atlanta Braves,Washington Nationals,27959,R
+2021-08-14,Los Angeles Dodgers,New York Mets,38669,R
+2021-08-15,Milwaukee Brewers,Pittsburgh Pirates,12001,R
+2021-08-15,Toronto Blue Jays,Seattle Mariners,22679,R
+2021-08-15,Colorado Rockies,San Francisco Giants,33337,R
+2021-08-15,Oakland Athletics,Texas Rangers,24990,R
+2021-08-15,Tampa Bay Rays,Minnesota Twins,22467,R
+2021-08-15,Cincinnati Reds,Philadelphia Phillies,28544,R
+2021-08-15,New York Yankees,Chicago White Sox,37696,R
+2021-08-15,Chicago Cubs,Miami Marlins,10262,R
+2021-08-15,Houston Astros,Los Angeles Angels,19281,R
+2021-08-15,San Diego Padres,Arizona Diamondbacks,17722,R
+2021-08-15,Baltimore Orioles,Boston Red Sox,28935,R
+2021-08-15,Cleveland Indians,Detroit Tigers,25684,R
+2021-08-15,St. Louis Cardinals,Kansas City Royals,18317,R
+2021-08-15,Atlanta Braves,Washington Nationals,27488,R
+2021-08-15,Los Angeles Dodgers,New York Mets,31205,R
+2021-08-16,New York Mets,San Francisco Giants,23511,R
+2021-08-16,Baltimore Orioles,Tampa Bay Rays,5460,R
+2021-08-16,Cleveland Indians,Minnesota Twins,15622,R
+2021-08-16,Oakland Athletics,Chicago White Sox,19410,R
+2021-08-16,Atlanta Braves,Miami Marlins,6442,R
+2021-08-16,Los Angeles Angels,New York Yankees,37010,R
+2021-08-16,Chicago Cubs,Cincinnati Reds,15404,R
+2021-08-16,San Diego Padres,Colorado Rockies,24565,R
+2021-08-16,Houston Astros,Kansas City Royals,10228,R
+2021-08-16,Pittsburgh Pirates,Los Angeles Dodgers,48005,R
+2021-08-17,New York Mets,San Francisco Giants,23610,R
+2021-08-17,Milwaukee Brewers,St. Louis Cardinals,28058,R
+2021-08-17,Baltimore Orioles,Tampa Bay Rays,4795,R
+2021-08-17,Seattle Mariners,Texas Rangers,15140,R
+2021-08-17,Cleveland Indians,Minnesota Twins,19605,R
+2021-08-17,Oakland Athletics,Chicago White Sox,21025,R
+2021-08-17,Atlanta Braves,Miami Marlins,6079,R
+2021-08-17,Boston Red Sox,New York Yankees,39078,R
+2021-08-17,Philadelphia Phillies,Arizona Diamondbacks,7796,R
+2021-08-17,Chicago Cubs,Cincinnati Reds,13989,R
+2021-08-17,San Diego Padres,Colorado Rockies,28139,R
+2021-08-17,Los Angeles Angels,Detroit Tigers,24714,R
+2021-08-17,Houston Astros,Kansas City Royals,9748,R
+2021-08-17,Pittsburgh Pirates,Los Angeles Dodgers,53114,R
+2021-08-17,Toronto Blue Jays,Washington Nationals,20060,R
+2021-08-18,New York Mets,San Francisco Giants,25360,R
+2021-08-18,Milwaukee Brewers,St. Louis Cardinals,25938,R
+2021-08-18,Baltimore Orioles,Tampa Bay Rays,6673,R
+2021-08-18,Seattle Mariners,Texas Rangers,19119,R
+2021-08-18,Cleveland Indians,Minnesota Twins,19949,R
+2021-08-18,Oakland Athletics,Chicago White Sox,22780,R
+2021-08-18,Atlanta Braves,Miami Marlins,6871,R
+2021-08-18,Boston Red Sox,New York Yankees,39166,R
+2021-08-18,Philadelphia Phillies,Arizona Diamondbacks,7968,R
+2021-08-18,Chicago Cubs,Cincinnati Reds,16922,R
+2021-08-18,San Diego Padres,Colorado Rockies,20692,R
+2021-08-18,Los Angeles Angels,Detroit Tigers,27282,R
+2021-08-18,Houston Astros,Kansas City Royals,12278,R
+2021-08-18,Pittsburgh Pirates,Los Angeles Dodgers,52140,R
+2021-08-18,Toronto Blue Jays,Washington Nationals,18336,R
+2021-08-19,Milwaukee Brewers,St. Louis Cardinals,27545,R
+2021-08-19,Baltimore Orioles,Tampa Bay Rays,5826,R
+2021-08-19,Seattle Mariners,Texas Rangers,16391,R
+2021-08-19,Oakland Athletics,Chicago White Sox,23853,R
+2021-08-19,Minnesota Twins,New York Yankees,30019,R
+2021-08-19,Philadelphia Phillies,Arizona Diamondbacks,7165,R
+2021-08-19,Miami Marlins,Cincinnati Reds,11581,R
+2021-08-19,Los Angeles Angels,Detroit Tigers,20847,R
+2021-08-19,Houston Astros,Kansas City Royals,9884,R
+2021-08-19,New York Mets,Los Angeles Dodgers,42133,R
+2021-08-20,San Francisco Giants,Oakland Athletics,40133,R
+2021-08-20,Philadelphia Phillies,San Diego Padres,40927,R
+2021-08-20,Pittsburgh Pirates,St. Louis Cardinals,28406,R
+2021-08-20,Chicago White Sox,Tampa Bay Rays,13178,R
+2021-08-20,Detroit Tigers,Toronto Blue Jays,14649,R
+2021-08-20,Minnesota Twins,New York Yankees,39124,R
+2021-08-20,Washington Nationals,Milwaukee Brewers,27998,R
+2021-08-20,Atlanta Braves,Baltimore Orioles,13583,R
+2021-08-20,Texas Rangers,Boston Red Sox,30012,R
+2021-08-20,Kansas City Royals,Chicago Cubs,31835,R
+2021-08-20,Miami Marlins,Cincinnati Reds,19106,R
+2021-08-20,Los Angeles Angels,Cleveland Indians,22755,R
+2021-08-20,Arizona Diamondbacks,Colorado Rockies,30243,R
+2021-08-20,Seattle Mariners,Houston Astros,26899,R
+2021-08-20,New York Mets,Los Angeles Dodgers,48117,R
+2021-08-21,San Francisco Giants,Oakland Athletics,36230,R
+2021-08-21,Philadelphia Phillies,San Diego Padres,43383,R
+2021-08-21,Pittsburgh Pirates,St. Louis Cardinals,30205,R
+2021-08-21,Chicago White Sox,Tampa Bay Rays,22275,R
+2021-08-21,Detroit Tigers,Toronto Blue Jays,14887,R
+2021-08-21,Minnesota Twins,New York Yankees,35247,R
+2021-08-21,Washington Nationals,Milwaukee Brewers,36938,R
+2021-08-21,Atlanta Braves,Baltimore Orioles,15774,R
+2021-08-21,Texas Rangers,Boston Red Sox,32495,R
+2021-08-21,Kansas City Royals,Chicago Cubs,34005,R
+2021-08-21,Miami Marlins,Cincinnati Reds,34433,R
+2021-08-21,Los Angeles Angels,Cleveland Indians,31406,R
+2021-08-21,Arizona Diamondbacks,Colorado Rockies,32699,R
+2021-08-21,Seattle Mariners,Houston Astros,29908,R
+2021-08-21,New York Mets,Los Angeles Dodgers,44783,R
+2021-08-22,San Francisco Giants,Oakland Athletics,30345,R
+2021-08-22,Philadelphia Phillies,San Diego Padres,38548,R
+2021-08-22,Pittsburgh Pirates,St. Louis Cardinals,34431,R
+2021-08-22,Chicago White Sox,Tampa Bay Rays,16696,R
+2021-08-22,Detroit Tigers,Toronto Blue Jays,14865,R
+2021-08-22,Washington Nationals,Milwaukee Brewers,33507,R
+2021-08-22,Atlanta Braves,Baltimore Orioles,11180,R
+2021-08-22,Kansas City Royals,Chicago Cubs,29640,R
+2021-08-22,Miami Marlins,Cincinnati Reds,17797,R
+2021-08-22,Los Angeles Angels,Cleveland Indians,1832,R
+2021-08-22,Arizona Diamondbacks,Colorado Rockies,24552,R
+2021-08-22,Seattle Mariners,Houston Astros,27526,R
+2021-08-22,New York Mets,Los Angeles Dodgers,52749,R
+2021-08-23,Seattle Mariners,Oakland Athletics,4140,R
+2021-08-23,Arizona Diamondbacks,Pittsburgh Pirates,8596,R
+2021-08-23,Chicago White Sox,Toronto Blue Jays,14640,R
+2021-08-23,New York Yankees,Atlanta Braves,39176,R
+2021-08-23,Texas Rangers,Boston Red Sox,27652,R
+2021-08-23,Colorado Rockies,Chicago Cubs,25577,R
+2021-08-23,Kansas City Royals,Houston Astros,18742,R
+2021-08-24,Seattle Mariners,Oakland Athletics,4508,R
+2021-08-24,Arizona Diamondbacks,Pittsburgh Pirates,8478,R
+2021-08-24,Los Angeles Dodgers,San Diego Padres,41676,R
+2021-08-24,Detroit Tigers,St. Louis Cardinals,28185,R
+2021-08-24,Chicago White Sox,Toronto Blue Jays,14553,R
+2021-08-24,Tampa Bay Rays,Philadelphia Phillies,23402,R
+2021-08-24,New York Yankees,Atlanta Braves,37426,R
+2021-08-24,Washington Nationals,Miami Marlins,5394,R
+2021-08-24,Cincinnati Reds,Milwaukee Brewers,24819,R
+2021-08-24,Los Angeles Angels,Baltimore Orioles,8781,R
+2021-08-24,Minnesota Twins,Boston Red Sox,27986,R
+2021-08-24,Texas Rangers,Cleveland Indians,11369,R
+2021-08-24,Kansas City Royals,Houston Astros,22964,R
+2021-08-24,San Francisco Giants,New York Mets,28558,R
+2021-08-25,Arizona Diamondbacks,Pittsburgh Pirates,8357,R
+2021-08-25,Los Angeles Dodgers,San Diego Padres,41765,R
+2021-08-25,Detroit Tigers,St. Louis Cardinals,24304,R
+2021-08-25,Chicago White Sox,Toronto Blue Jays,14276,R
+2021-08-25,Tampa Bay Rays,Philadelphia Phillies,25552,R
+2021-08-25,Washington Nationals,Miami Marlins,6237,R
+2021-08-25,Cincinnati Reds,Milwaukee Brewers,24715,R
+2021-08-25,Los Angeles Angels,Baltimore Orioles,15867,R
+2021-08-25,Minnesota Twins,Boston Red Sox,28923,R
+2021-08-25,Colorado Rockies,Chicago Cubs,24936,R
+2021-08-25,Texas Rangers,Cleveland Indians,11398,R
+2021-08-25,Kansas City Royals,Houston Astros,21052,R
+2021-08-25,San Francisco Giants,New York Mets,24384,R
+2021-08-26,New York Yankees,Oakland Athletics,8147,R
+2021-08-26,St. Louis Cardinals,Pittsburgh Pirates,8618,R
+2021-08-26,Los Angeles Dodgers,San Diego Padres,43383,R
+2021-08-26,Kansas City Royals,Seattle Mariners,16882,R
+2021-08-26,Chicago White Sox,Toronto Blue Jays,14958,R
+2021-08-26,Arizona Diamondbacks,Philadelphia Phillies,20148,R
+2021-08-26,Washington Nationals,Miami Marlins,5447,R
+2021-08-26,Cincinnati Reds,Milwaukee Brewers,28656,R
+2021-08-26,Los Angeles Angels,Baltimore Orioles,10211,R
+2021-08-26,Minnesota Twins,Boston Red Sox,33746,R
+2021-08-26,Texas Rangers,Cleveland Indians,10827,R
+2021-08-26,San Francisco Giants,New York Mets,25000,R
+2021-08-27,New York Yankees,Oakland Athletics,22463,R
+2021-08-27,St. Louis Cardinals,Pittsburgh Pirates,12662,R
+2021-08-27,Kansas City Royals,Seattle Mariners,22953,R
+2021-08-27,Houston Astros,Texas Rangers,29286,R
+2021-08-27,Milwaukee Brewers,Minnesota Twins,20280,R
+2021-08-27,Arizona Diamondbacks,Philadelphia Phillies,23181,R
+2021-08-27,San Francisco Giants,Atlanta Braves,35586,R
+2021-08-27,Chicago Cubs,Chicago White Sox,37892,R
+2021-08-27,Cincinnati Reds,Miami Marlins,7119,R
+2021-08-27,San Diego Padres,Los Angeles Angels,25376,R
+2021-08-27,Tampa Bay Rays,Baltimore Orioles,7155,R
+2021-08-27,Boston Red Sox,Cleveland Indians,20881,R
+2021-08-27,Toronto Blue Jays,Detroit Tigers,17259,R
+2021-08-27,Colorado Rockies,Los Angeles Dodgers,40100,R
+2021-08-27,Washington Nationals,New York Mets,20274,R
+2021-08-28,New York Yankees,Oakland Athletics,18337,R
+2021-08-28,St. Louis Cardinals,Pittsburgh Pirates,20043,R
+2021-08-28,Kansas City Royals,Seattle Mariners,24575,R
+2021-08-28,Houston Astros,Texas Rangers,37810,R
+2021-08-28,Milwaukee Brewers,Minnesota Twins,29342,R
+2021-08-28,Arizona Diamondbacks,Philadelphia Phillies,24692,R
+2021-08-28,San Francisco Giants,Atlanta Braves,39558,R
+2021-08-28,Chicago Cubs,Chicago White Sox,38668,R
+2021-08-28,Cincinnati Reds,Miami Marlins,10407,R
+2021-08-28,San Diego Padres,Los Angeles Angels,36176,R
+2021-08-28,Tampa Bay Rays,Baltimore Orioles,11110,R
+2021-08-28,Boston Red Sox,Cleveland Indians,26221,R
+2021-08-28,Toronto Blue Jays,Detroit Tigers,18783,R
+2021-08-28,Colorado Rockies,Los Angeles Dodgers,42479,R
+2021-08-28,Washington Nationals,New York Mets,27870,R
+2021-08-29,New York Yankees,Oakland Athletics,18468,R
+2021-08-29,St. Louis Cardinals,Pittsburgh Pirates,10290,R
+2021-08-29,Kansas City Royals,Seattle Mariners,20044,R
+2021-08-29,Houston Astros,Texas Rangers,31062,R
+2021-08-29,Milwaukee Brewers,Minnesota Twins,26186,R
+2021-08-29,Arizona Diamondbacks,Philadelphia Phillies,22237,R
+2021-08-29,San Francisco Giants,Atlanta Braves,28820,R
+2021-08-29,Chicago Cubs,Chicago White Sox,38565,R
+2021-08-29,Cincinnati Reds,Miami Marlins,11019,R
+2021-08-29,Tampa Bay Rays,Baltimore Orioles,8353,R
+2021-08-29,Boston Red Sox,Cleveland Indians,22883,R
+2021-08-29,Toronto Blue Jays,Detroit Tigers,15956,R
+2021-08-29,Colorado Rockies,Los Angeles Dodgers,37569,R
+2021-08-29,Washington Nationals,New York Mets,24247,R
+2021-08-30,Houston Astros,Seattle Mariners,11630,R
+2021-08-30,Milwaukee Brewers,San Francisco Giants,23154,R
+2021-08-30,Boston Red Sox,Tampa Bay Rays,6753,R
+2021-08-30,Colorado Rockies,Texas Rangers,14990,R
+2021-08-30,Baltimore Orioles,Toronto Blue Jays,14406,R
+2021-08-30,New York Yankees,Los Angeles Angels,29436,R
+2021-08-30,San Diego Padres,Arizona Diamondbacks,8482,R
+2021-08-30,St. Louis Cardinals,Cincinnati Reds,10773,R
+2021-08-30,Minnesota Twins,Detroit Tigers,13425,R
+2021-08-30,Atlanta Braves,Los Angeles Dodgers,49410,R
+2021-08-30,Philadelphia Phillies,Washington Nationals,17353,R
+2021-08-31,Houston Astros,Seattle Mariners,10452,R
+2021-08-31,Milwaukee Brewers,San Francisco Giants,20897,R
+2021-08-31,Boston Red Sox,Tampa Bay Rays,6868,R
+2021-08-31,Colorado Rockies,Texas Rangers,18383,R
+2021-08-31,Baltimore Orioles,Toronto Blue Jays,13963,R
+2021-08-31,Chicago Cubs,Minnesota Twins,22224,R
+2021-08-31,Pittsburgh Pirates,Chicago White Sox,19221,R
+2021-08-31,New York Yankees,Los Angeles Angels,34813,R
+2021-08-31,San Diego Padres,Arizona Diamondbacks,10818,R
+2021-08-31,Oakland Athletics,Detroit Tigers,13853,R
+2021-08-31,Cleveland Indians,Kansas City Royals,11542,R
+2021-08-31,Atlanta Braves,Los Angeles Dodgers,44952,R
+2021-08-31,Philadelphia Phillies,Washington Nationals,16844,R
+2021-08-31,Miami Marlins,New York Mets,18101,R
+2021-09-01,Houston Astros,Seattle Mariners,10519,R
+2021-09-01,Milwaukee Brewers,San Francisco Giants,21189,R
+2021-09-01,Boston Red Sox,Tampa Bay Rays,7808,R
+2021-09-01,Colorado Rockies,Texas Rangers,14747,R
+2021-09-01,Baltimore Orioles,Toronto Blue Jays,14262,R
+2021-09-01,Chicago Cubs,Minnesota Twins,21784,R
+2021-09-01,Pittsburgh Pirates,Chicago White Sox,19231,R
+2021-09-01,New York Yankees,Los Angeles Angels,28753,R
+2021-09-01,San Diego Padres,Arizona Diamondbacks,5945,R
+2021-09-01,St. Louis Cardinals,Cincinnati Reds,10892,R
+2021-09-01,Oakland Athletics,Detroit Tigers,12593,R
+2021-09-01,Cleveland Indians,Kansas City Royals,10516,R
+2021-09-01,Atlanta Braves,Los Angeles Dodgers,47473,R
+2021-09-02,Milwaukee Brewers,San Francisco Giants,21023,R
+2021-09-02,Boston Red Sox,Tampa Bay Rays,7923,R
+2021-09-02,Pittsburgh Pirates,Chicago Cubs,26963,R
+2021-09-02,Atlanta Braves,Colorado Rockies,21481,R
+2021-09-02,Oakland Athletics,Detroit Tigers,11623,R
+2021-09-02,Cleveland Indians,Kansas City Royals,10042,R
+2021-09-02,Philadelphia Phillies,Washington Nationals,12280,R
+2021-09-02,Miami Marlins,New York Mets,23737,R
+2021-09-03,Houston Astros,San Diego Padres,37033,R
+2021-09-03,Los Angeles Dodgers,San Francisco Giants,39338,R
+2021-09-03,Minnesota Twins,Tampa Bay Rays,8864,R
+2021-09-03,Oakland Athletics,Toronto Blue Jays,14843,R
+2021-09-03,Philadelphia Phillies,Miami Marlins,7073,R
+2021-09-03,Baltimore Orioles,New York Yankees,34085,R
+2021-09-03,St. Louis Cardinals,Milwaukee Brewers,23987,R
+2021-09-03,Texas Rangers,Los Angeles Angels,19074,R
+2021-09-03,Seattle Mariners,Arizona Diamondbacks,12729,R
+2021-09-03,Cleveland Indians,Boston Red Sox,31127,R
+2021-09-03,Pittsburgh Pirates,Chicago Cubs,24441,R
+2021-09-03,Detroit Tigers,Cincinnati Reds,19430,R
+2021-09-03,Atlanta Braves,Colorado Rockies,24371,R
+2021-09-03,Chicago White Sox,Kansas City Royals,14210,R
+2021-09-03,New York Mets,Washington Nationals,26779,R
+2021-09-04,Houston Astros,San Diego Padres,35338,R
+2021-09-04,Los Angeles Dodgers,San Francisco Giants,41146,R
+2021-09-04,Minnesota Twins,Tampa Bay Rays,13861,R
+2021-09-04,Oakland Athletics,Toronto Blue Jays,14947,R
+2021-09-04,Philadelphia Phillies,Miami Marlins,9256,R
+2021-09-04,Baltimore Orioles,New York Yankees,34571,R
+2021-09-04,St. Louis Cardinals,Milwaukee Brewers,33439,R
+2021-09-04,Texas Rangers,Los Angeles Angels,22697,R
+2021-09-04,Seattle Mariners,Arizona Diamondbacks,18819,R
+2021-09-04,Cleveland Indians,Boston Red Sox,33081,R
+2021-09-04,Pittsburgh Pirates,Chicago Cubs,30020,R
+2021-09-04,Detroit Tigers,Cincinnati Reds,26962,R
+2021-09-04,Atlanta Braves,Colorado Rockies,35351,R
+2021-09-04,Chicago White Sox,Kansas City Royals,18800,R
+2021-09-04,New York Mets,Washington Nationals,22420,R
+2021-09-05,Houston Astros,San Diego Padres,35007,R
+2021-09-05,Los Angeles Dodgers,San Francisco Giants,41155,R
+2021-09-05,Minnesota Twins,Tampa Bay Rays,14165,R
+2021-09-05,Oakland Athletics,Toronto Blue Jays,14988,R
+2021-09-05,Philadelphia Phillies,Miami Marlins,8082,R
+2021-09-05,Baltimore Orioles,New York Yankees,33091,R
+2021-09-05,St. Louis Cardinals,Milwaukee Brewers,33845,R
+2021-09-05,Texas Rangers,Los Angeles Angels,18492,R
+2021-09-05,Seattle Mariners,Arizona Diamondbacks,14408,R
+2021-09-05,Cleveland Indians,Boston Red Sox,27578,R
+2021-09-05,Pittsburgh Pirates,Chicago Cubs,30155,R
+2021-09-05,Detroit Tigers,Cincinnati Reds,23083,R
+2021-09-05,Atlanta Braves,Colorado Rockies,33957,R
+2021-09-05,Chicago White Sox,Kansas City Royals,19696,R
+2021-09-05,New York Mets,Washington Nationals,22162,R
+2021-09-06,Detroit Tigers,Pittsburgh Pirates,11141,R
+2021-09-06,Los Angeles Dodgers,St. Louis Cardinals,43575,R
+2021-09-06,Toronto Blue Jays,New York Yankees,31196,R
+2021-09-06,Philadelphia Phillies,Milwaukee Brewers,30192,R
+2021-09-06,Texas Rangers,Los Angeles Angels,16241,R
+2021-09-06,Kansas City Royals,Baltimore Orioles,11973,R
+2021-09-06,Tampa Bay Rays,Boston Red Sox,26512,R
+2021-09-06,Cincinnati Reds,Chicago Cubs,27289,R
+2021-09-06,Minnesota Twins,Cleveland Indians,12675,R
+2021-09-06,San Francisco Giants,Colorado Rockies,27967,R
+2021-09-06,Seattle Mariners,Houston Astros,25802,R
+2021-09-06,New York Mets,Washington Nationals,17623,R
+2021-09-07,Chicago White Sox,Oakland Athletics,4556,R
+2021-09-07,Detroit Tigers,Pittsburgh Pirates,8329,R
+2021-09-07,Los Angeles Angels,San Diego Padres,34405,R
+2021-09-07,Los Angeles Dodgers,St. Louis Cardinals,34500,R
+2021-09-07,Washington Nationals,Atlanta Braves,20544,R
+2021-09-07,New York Mets,Miami Marlins,5848,R
+2021-09-07,Toronto Blue Jays,New York Yankees,30164,R
+2021-09-07,Philadelphia Phillies,Milwaukee Brewers,22955,R
+2021-09-07,Texas Rangers,Arizona Diamondbacks,8758,R
+2021-09-07,Kansas City Royals,Baltimore Orioles,4981,R
+2021-09-07,Tampa Bay Rays,Boston Red Sox,25065,R
+2021-09-07,Cincinnati Reds,Chicago Cubs,24925,R
+2021-09-07,Minnesota Twins,Cleveland Indians,10448,R
+2021-09-07,San Francisco Giants,Colorado Rockies,24387,R
+2021-09-07,Seattle Mariners,Houston Astros,20353,R
+2021-09-08,Chicago White Sox,Oakland Athletics,8147,R
+2021-09-08,Detroit Tigers,Pittsburgh Pirates,8382,R
+2021-09-08,Los Angeles Angels,San Diego Padres,34537,R
+2021-09-08,Los Angeles Dodgers,St. Louis Cardinals,35566,R
+2021-09-08,Washington Nationals,Atlanta Braves,20074,R
+2021-09-08,New York Mets,Miami Marlins,6378,R
+2021-09-08,Toronto Blue Jays,New York Yankees,25873,R
+2021-09-08,Philadelphia Phillies,Milwaukee Brewers,20654,R
+2021-09-08,Texas Rangers,Arizona Diamondbacks,6354,R
+2021-09-08,Kansas City Royals,Baltimore Orioles,4965,R
+2021-09-08,Tampa Bay Rays,Boston Red Sox,26649,R
+2021-09-08,Cincinnati Reds,Chicago Cubs,25861,R
+2021-09-08,Minnesota Twins,Cleveland Indians,11037,R
+2021-09-08,San Francisco Giants,Colorado Rockies,20358,R
+2021-09-08,Seattle Mariners,Houston Astros,19089,R
+2021-09-09,Chicago White Sox,Oakland Athletics,5078,R
+2021-09-09,Los Angeles Dodgers,St. Louis Cardinals,31173,R
+2021-09-09,Colorado Rockies,Philadelphia Phillies,18071,R
+2021-09-09,Washington Nationals,Atlanta Braves,23657,R
+2021-09-09,New York Mets,Miami Marlins,8075,R
+2021-09-09,Toronto Blue Jays,New York Yankees,30112,R
+2021-09-09,Kansas City Royals,Baltimore Orioles,5087,R
+2021-09-09,Minnesota Twins,Cleveland Indians,11846,R
+2021-09-10,Texas Rangers,Oakland Athletics,7157,R
+2021-09-10,Washington Nationals,Pittsburgh Pirates,11808,R
+2021-09-10,Arizona Diamondbacks,Seattle Mariners,14379,R
+2021-09-10,Cincinnati Reds,St. Louis Cardinals,29597,R
+2021-09-10,Kansas City Royals,Minnesota Twins,20803,R
+2021-09-10,Colorado Rockies,Philadelphia Phillies,22138,R
+2021-09-10,Miami Marlins,Atlanta Braves,33850,R
+2021-09-10,Boston Red Sox,Chicago White Sox,34365,R
+2021-09-10,Toronto Blue Jays,Baltimore Orioles,11751,R
+2021-09-10,San Francisco Giants,Chicago Cubs,29439,R
+2021-09-10,Milwaukee Brewers,Cleveland Indians,17667,R
+2021-09-10,Tampa Bay Rays,Detroit Tigers,18321,R
+2021-09-10,Los Angeles Angels,Houston Astros,28740,R
+2021-09-10,San Diego Padres,Los Angeles Dodgers,48403,R
+2021-09-10,New York Yankees,New York Mets,37288,R
+2021-09-11,Texas Rangers,Oakland Athletics,7945,R
+2021-09-11,Washington Nationals,Pittsburgh Pirates,17993,R
+2021-09-11,Arizona Diamondbacks,Seattle Mariners,15483,R
+2021-09-11,Cincinnati Reds,St. Louis Cardinals,33404,R
+2021-09-11,Kansas City Royals,Minnesota Twins,19532,R
+2021-09-11,Colorado Rockies,Philadelphia Phillies,23232,R
+2021-09-11,Miami Marlins,Atlanta Braves,35250,R
+2021-09-11,Boston Red Sox,Chicago White Sox,37854,R
+2021-09-11,Toronto Blue Jays,Baltimore Orioles,10219,R
+2021-09-11,San Francisco Giants,Chicago Cubs,34723,R
+2021-09-11,Milwaukee Brewers,Cleveland Indians,20100,R
+2021-09-11,Tampa Bay Rays,Detroit Tigers,18842,R
+2021-09-11,Los Angeles Angels,Houston Astros,31547,R
+2021-09-11,San Diego Padres,Los Angeles Dodgers,46969,R
+2021-09-11,New York Yankees,New York Mets,43144,R
+2021-09-12,Texas Rangers,Oakland Athletics,6983,R
+2021-09-12,Washington Nationals,Pittsburgh Pirates,9714,R
+2021-09-12,Arizona Diamondbacks,Seattle Mariners,13551,R
+2021-09-12,Cincinnati Reds,St. Louis Cardinals,32872,R
+2021-09-12,Kansas City Royals,Minnesota Twins,19496,R
+2021-09-12,Colorado Rockies,Philadelphia Phillies,24099,R
+2021-09-12,Miami Marlins,Atlanta Braves,27847,R
+2021-09-12,Boston Red Sox,Chicago White Sox,36178,R
+2021-09-12,Toronto Blue Jays,Baltimore Orioles,8474,R
+2021-09-12,San Francisco Giants,Chicago Cubs,32021,R
+2021-09-12,Milwaukee Brewers,Cleveland Indians,16332,R
+2021-09-12,Tampa Bay Rays,Detroit Tigers,13396,R
+2021-09-12,Los Angeles Angels,Houston Astros,28763,R
+2021-09-12,San Diego Padres,Los Angeles Dodgers,42637,R
+2021-09-12,New York Yankees,New York Mets,33805,R
+2021-09-13,Boston Red Sox,Seattle Mariners,18219,R
+2021-09-13,San Diego Padres,San Francisco Giants,21078,R
+2021-09-13,Houston Astros,Texas Rangers,18903,R
+2021-09-13,Tampa Bay Rays,Toronto Blue Jays,12119,R
+2021-09-13,Minnesota Twins,New York Yankees,31528,R
+2021-09-13,Arizona Diamondbacks,Los Angeles Dodgers,43273,R
+2021-09-13,Miami Marlins,Washington Nationals,19759,R
+2021-09-13,St. Louis Cardinals,New York Mets,19057,R
+2021-09-14,Cincinnati Reds,Pittsburgh Pirates,8896,R
+2021-09-14,Boston Red Sox,Seattle Mariners,19887,R
+2021-09-14,San Diego Padres,San Francisco Giants,23192,R
+2021-09-14,Houston Astros,Texas Rangers,19451,R
+2021-09-14,Tampa Bay Rays,Toronto Blue Jays,13103,R
+2021-09-14,Cleveland Indians,Minnesota Twins,18905,R
+2021-09-14,Chicago Cubs,Philadelphia Phillies,16170,R
+2021-09-14,Colorado Rockies,Atlanta Braves,22579,R
+2021-09-14,Los Angeles Angels,Chicago White Sox,21848,R
+2021-09-14,New York Yankees,Baltimore Orioles,10235,R
+2021-09-14,Milwaukee Brewers,Detroit Tigers,12433,R
+2021-09-14,Oakland Athletics,Kansas City Royals,10254,R
+2021-09-14,Arizona Diamondbacks,Los Angeles Dodgers,44630,R
+2021-09-14,Miami Marlins,Washington Nationals,17030,R
+2021-09-14,St. Louis Cardinals,New York Mets,21825,R
+2021-09-15,Cincinnati Reds,Pittsburgh Pirates,9320,R
+2021-09-15,Boston Red Sox,Seattle Mariners,17860,R
+2021-09-15,San Diego Padres,San Francisco Giants,21212,R
+2021-09-15,Houston Astros,Texas Rangers,20991,R
+2021-09-15,Tampa Bay Rays,Toronto Blue Jays,12153,R
+2021-09-15,Cleveland Indians,Minnesota Twins,14222,R
+2021-09-15,Chicago Cubs,Philadelphia Phillies,16299,R
+2021-09-15,Colorado Rockies,Atlanta Braves,21382,R
+2021-09-15,Los Angeles Angels,Chicago White Sox,26505,R
+2021-09-15,New York Yankees,Baltimore Orioles,10402,R
+2021-09-15,Milwaukee Brewers,Detroit Tigers,11321,R
+2021-09-15,Oakland Athletics,Kansas City Royals,11056,R
+2021-09-15,Arizona Diamondbacks,Los Angeles Dodgers,46520,R
+2021-09-15,Miami Marlins,Washington Nationals,16309,R
+2021-09-15,St. Louis Cardinals,New York Mets,21001,R
+2021-09-16,Cincinnati Reds,Pittsburgh Pirates,9102,R
+2021-09-16,San Diego Padres,San Francisco Giants,23379,R
+2021-09-16,Detroit Tigers,Tampa Bay Rays,10206,R
+2021-09-16,Houston Astros,Texas Rangers,19121,R
+2021-09-16,Chicago Cubs,Philadelphia Phillies,20208,R
+2021-09-16,Los Angeles Angels,Chicago White Sox,27098,R
+2021-09-16,New York Yankees,Baltimore Orioles,20164,R
+2021-09-16,Oakland Athletics,Kansas City Royals,11729,R
+2021-09-17,Atlanta Braves,San Francisco Giants,26644,R
+2021-09-17,San Diego Padres,St. Louis Cardinals,30937,R
+2021-09-17,Detroit Tigers,Tampa Bay Rays,16451,R
+2021-09-17,Chicago White Sox,Texas Rangers,28288,R
+2021-09-17,Minnesota Twins,Toronto Blue Jays,14798,R
+2021-09-17,Pittsburgh Pirates,Miami Marlins,7884,R
+2021-09-17,Cleveland Indians,New York Yankees,31403,R
+2021-09-17,Chicago Cubs,Milwaukee Brewers,28483,R
+2021-09-17,Oakland Athletics,Los Angeles Angels,18918,R
+2021-09-17,Baltimore Orioles,Boston Red Sox,29811,R
+2021-09-17,Los Angeles Dodgers,Cincinnati Reds,28926,R
+2021-09-17,Arizona Diamondbacks,Houston Astros,22595,R
+2021-09-17,Seattle Mariners,Kansas City Royals,14904,R
+2021-09-17,Colorado Rockies,Washington Nationals,21195,R
+2021-09-17,Philadelphia Phillies,New York Mets,26967,R
+2021-09-18,Atlanta Braves,San Francisco Giants,32058,R
+2021-09-18,San Diego Padres,St. Louis Cardinals,40626,R
+2021-09-18,Detroit Tigers,Tampa Bay Rays,22921,R
+2021-09-18,Chicago White Sox,Texas Rangers,31121,R
+2021-09-18,Minnesota Twins,Toronto Blue Jays,14722,R
+2021-09-18,Pittsburgh Pirates,Miami Marlins,12300,R
+2021-09-18,Cleveland Indians,New York Yankees,39088,R
+2021-09-18,Chicago Cubs,Milwaukee Brewers,33625,R
+2021-09-18,Oakland Athletics,Los Angeles Angels,27150,R
+2021-09-18,Baltimore Orioles,Boston Red Sox,30027,R
+2021-09-18,Los Angeles Dodgers,Cincinnati Reds,29861,R
+2021-09-18,Arizona Diamondbacks,Houston Astros,25314,R
+2021-09-18,Seattle Mariners,Kansas City Royals,20085,R
+2021-09-18,Colorado Rockies,Washington Nationals,29315,R
+2021-09-18,Philadelphia Phillies,New York Mets,33442,R
+2021-09-19,Atlanta Braves,San Francisco Giants,32210,R
+2021-09-19,San Diego Padres,St. Louis Cardinals,35326,R
+2021-09-19,Detroit Tigers,Tampa Bay Rays,17948,R
+2021-09-19,Chicago White Sox,Texas Rangers,24918,R
+2021-09-19,Minnesota Twins,Toronto Blue Jays,14601,R
+2021-09-19,Pittsburgh Pirates,Miami Marlins,9870,R
+2021-09-19,Cleveland Indians,New York Yankees,34110,R
+2021-09-19,Chicago Cubs,Milwaukee Brewers,34213,R
+2021-09-19,Oakland Athletics,Los Angeles Angels,22456,R
+2021-09-19,Baltimore Orioles,Boston Red Sox,27010,R
+2021-09-19,Los Angeles Dodgers,Cincinnati Reds,26621,R
+2021-09-19,Arizona Diamondbacks,Houston Astros,23888,R
+2021-09-19,Seattle Mariners,Kansas City Royals,16872,R
+2021-09-19,Colorado Rockies,Washington Nationals,26303,R
+2021-09-19,Philadelphia Phillies,New York Mets,24832,R
+2021-09-20,Seattle Mariners,Oakland Athletics,4068,R
+2021-09-20,Toronto Blue Jays,Tampa Bay Rays,10119,R
+2021-09-20,Baltimore Orioles,Philadelphia Phillies,21440,R
+2021-09-20,Washington Nationals,Miami Marlins,5383,R
+2021-09-20,Texas Rangers,New York Yankees,22160,R
+2021-09-20,St. Louis Cardinals,Milwaukee Brewers,28291,R
+2021-09-20,Houston Astros,Los Angeles Angels,16070,R
+2021-09-20,Atlanta Braves,Arizona Diamondbacks,9642,R
+2021-09-20,Pittsburgh Pirates,Cincinnati Reds,17086,R
+2021-09-20,Kansas City Royals,Cleveland Indians,11459,R
+2021-09-20,Chicago White Sox,Detroit Tigers,12884,R
+2021-09-21,Seattle Mariners,Oakland Athletics,4246,R
+2021-09-21,San Francisco Giants,San Diego Padres,36439,R
+2021-09-21,Toronto Blue Jays,Tampa Bay Rays,9888,R
+2021-09-21,Baltimore Orioles,Philadelphia Phillies,18955,R
+2021-09-21,Washington Nationals,Miami Marlins,5926,R
+2021-09-21,Texas Rangers,New York Yankees,23335,R
+2021-09-21,St. Louis Cardinals,Milwaukee Brewers,30475,R
+2021-09-21,Houston Astros,Los Angeles Angels,18332,R
+2021-09-21,Atlanta Braves,Arizona Diamondbacks,8879,R
+2021-09-21,New York Mets,Boston Red Sox,32146,R
+2021-09-21,Minnesota Twins,Chicago Cubs,25594,R
+2021-09-21,Pittsburgh Pirates,Cincinnati Reds,9475,R
+2021-09-21,Kansas City Royals,Cleveland Indians,23341,R
+2021-09-21,Los Angeles Dodgers,Colorado Rockies,23869,R
+2021-09-21,Chicago White Sox,Detroit Tigers,10585,R
+2021-09-22,Seattle Mariners,Oakland Athletics,4149,R
+2021-09-22,San Francisco Giants,San Diego Padres,38189,R
+2021-09-22,Toronto Blue Jays,Tampa Bay Rays,10994,R
+2021-09-22,Baltimore Orioles,Philadelphia Phillies,18133,R
+2021-09-22,Washington Nationals,Miami Marlins,5908,R
+2021-09-22,Texas Rangers,New York Yankees,25170,R
+2021-09-22,St. Louis Cardinals,Milwaukee Brewers,29635,R
+2021-09-22,Houston Astros,Los Angeles Angels,14863,R
+2021-09-22,Atlanta Braves,Arizona Diamondbacks,10631,R
+2021-09-22,New York Mets,Boston Red Sox,30254,R
+2021-09-22,Minnesota Twins,Chicago Cubs,24402,R
+2021-09-22,Los Angeles Dodgers,Colorado Rockies,27013,R
+2021-09-23,Seattle Mariners,Oakland Athletics,4966,R
+2021-09-23,San Francisco Giants,San Diego Padres,31049,R
+2021-09-23,Toronto Blue Jays,Minnesota Twins,15509,R
+2021-09-23,Pittsburgh Pirates,Philadelphia Phillies,16154,R
+2021-09-23,St. Louis Cardinals,Milwaukee Brewers,30804,R
+2021-09-23,Houston Astros,Los Angeles Angels,19829,R
+2021-09-23,Atlanta Braves,Arizona Diamondbacks,6880,R
+2021-09-23,Texas Rangers,Baltimore Orioles,6328,R
+2021-09-23,Washington Nationals,Cincinnati Reds,11836,R
+2021-09-23,Chicago White Sox,Cleveland Indians,11851,R
+2021-09-23,Los Angeles Dodgers,Colorado Rockies,22356,R
+2021-09-24,Houston Astros,Oakland Athletics,21105,R
+2021-09-24,Atlanta Braves,San Diego Padres,33265,R
+2021-09-24,Miami Marlins,Tampa Bay Rays,15340,R
+2021-09-24,Toronto Blue Jays,Minnesota Twins,18861,R
+2021-09-24,Pittsburgh Pirates,Philadelphia Phillies,20548,R
+2021-09-24,New York Mets,Milwaukee Brewers,27452,R
+2021-09-24,Seattle Mariners,Los Angeles Angels,18551,R
+2021-09-24,Los Angeles Dodgers,Arizona Diamondbacks,19001,R
+2021-09-24,Texas Rangers,Baltimore Orioles,7935,R
+2021-09-24,New York Yankees,Boston Red Sox,36026,R
+2021-09-24,St. Louis Cardinals,Chicago Cubs,35020,R
+2021-09-24,Washington Nationals,Cincinnati Reds,16021,R
+2021-09-24,Chicago White Sox,Cleveland Indians,18576,R
+2021-09-24,San Francisco Giants,Colorado Rockies,41613,R
+2021-09-24,Kansas City Royals,Detroit Tigers,24877,R
+2021-09-25,Houston Astros,Oakland Athletics,13037,R
+2021-09-25,Atlanta Braves,San Diego Padres,39026,R
+2021-09-25,Miami Marlins,Tampa Bay Rays,23783,R
+2021-09-25,Toronto Blue Jays,Minnesota Twins,27183,R
+2021-09-25,Pittsburgh Pirates,Philadelphia Phillies,28135,R
+2021-09-25,New York Mets,Milwaukee Brewers,35388,R
+2021-09-25,Seattle Mariners,Los Angeles Angels,30221,R
+2021-09-25,Los Angeles Dodgers,Arizona Diamondbacks,28026,R
+2021-09-25,Texas Rangers,Baltimore Orioles,10645,R
+2021-09-25,New York Yankees,Boston Red Sox,36103,R
+2021-09-25,St. Louis Cardinals,Chicago Cubs,32918,R
+2021-09-25,Washington Nationals,Cincinnati Reds,18293,R
+2021-09-25,Chicago White Sox,Cleveland Indians,24082,R
+2021-09-25,San Francisco Giants,Colorado Rockies,45063,R
+2021-09-25,Kansas City Royals,Detroit Tigers,16424,R
+2021-09-26,Houston Astros,Oakland Athletics,12288,R
+2021-09-26,Atlanta Braves,San Diego Padres,41294,R
+2021-09-26,Miami Marlins,Tampa Bay Rays,20826,R
+2021-09-26,Toronto Blue Jays,Minnesota Twins,20676,R
+2021-09-26,Pittsburgh Pirates,Philadelphia Phillies,29336,R
+2021-09-26,New York Mets,Milwaukee Brewers,43430,R
+2021-09-26,Seattle Mariners,Los Angeles Angels,22057,R
+2021-09-26,Los Angeles Dodgers,Arizona Diamondbacks,16648,R
+2021-09-26,Texas Rangers,Baltimore Orioles,13495,R
+2021-09-26,New York Yankees,Boston Red Sox,36312,R
+2021-09-26,St. Louis Cardinals,Chicago Cubs,26547,R
+2021-09-26,Washington Nationals,Cincinnati Reds,21328,R
+2021-09-26,Chicago White Sox,Cleveland Indians,21957,R
+2021-09-26,San Francisco Giants,Colorado Rockies,31043,R
+2021-09-26,Kansas City Royals,Detroit Tigers,23788,R
+2021-09-27,Oakland Athletics,Seattle Mariners,11169,R
+2021-09-27,Pittsburgh Pirates,Cincinnati Reds,11055,R
+2021-09-27,Kansas City Royals,Cleveland Indians,13121,R
+2021-09-27,Washington Nationals,Colorado Rockies,20388,R
+2021-09-27,Chicago White Sox,Detroit Tigers,11044,R
+2021-09-28,Chicago Cubs,Pittsburgh Pirates,9218,R
+2021-09-28,Oakland Athletics,Seattle Mariners,12635,R
+2021-09-28,Arizona Diamondbacks,San Francisco Giants,28122,R
+2021-09-28,Milwaukee Brewers,St. Louis Cardinals,35726,R
+2021-09-28,Los Angeles Angels,Texas Rangers,20066,R
+2021-09-28,New York Yankees,Toronto Blue Jays,28769,R
+2021-09-28,Detroit Tigers,Minnesota Twins,16329,R
+2021-09-28,Philadelphia Phillies,Atlanta Braves,29238,R
+2021-09-28,Cincinnati Reds,Chicago White Sox,25242,R
+2021-09-28,Boston Red Sox,Baltimore Orioles,8098,R
+2021-09-28,Washington Nationals,Colorado Rockies,21693,R
+2021-09-28,Tampa Bay Rays,Houston Astros,32297,R
+2021-09-28,Cleveland Indians,Kansas City Royals,11670,R
+2021-09-28,San Diego Padres,Los Angeles Dodgers,52128,R
+2021-09-28,Miami Marlins,New York Mets,20647,R
+2021-09-29,Chicago Cubs,Pittsburgh Pirates,9236,R
+2021-09-29,Oakland Athletics,Seattle Mariners,17366,R
+2021-09-29,Arizona Diamondbacks,San Francisco Giants,23110,R
+2021-09-29,Milwaukee Brewers,St. Louis Cardinals,35283,R
+2021-09-29,Los Angeles Angels,Texas Rangers,23241,R
+2021-09-29,New York Yankees,Toronto Blue Jays,29601,R
+2021-09-29,Detroit Tigers,Minnesota Twins,17254,R
+2021-09-29,Philadelphia Phillies,Atlanta Braves,27664,R
+2021-09-29,Cincinnati Reds,Chicago White Sox,23018,R
+2021-09-29,Boston Red Sox,Baltimore Orioles,8732,R
+2021-09-29,Washington Nationals,Colorado Rockies,20613,R
+2021-09-29,Tampa Bay Rays,Houston Astros,28321,R
+2021-09-29,Cleveland Indians,Kansas City Royals,10373,R
+2021-09-29,San Diego Padres,Los Angeles Dodgers,45366,R
+2021-09-29,Miami Marlins,New York Mets,22610,R
+2021-09-30,Chicago Cubs,Pittsburgh Pirates,10152,R
+2021-09-30,Arizona Diamondbacks,San Francisco Giants,27503,R
+2021-09-30,Milwaukee Brewers,St. Louis Cardinals,29161,R
+2021-09-30,Los Angeles Angels,Texas Rangers,19960,R
+2021-09-30,New York Yankees,Toronto Blue Jays,29659,R
+2021-09-30,Detroit Tigers,Minnesota Twins,21186,R
+2021-09-30,Philadelphia Phillies,Atlanta Braves,38235,R
+2021-09-30,Boston Red Sox,Baltimore Orioles,13012,R
+2021-09-30,Tampa Bay Rays,Houston Astros,31608,R
+2021-09-30,Cleveland Indians,Kansas City Royals,11288,R
+2021-09-30,San Diego Padres,Los Angeles Dodgers,52550,R
+2021-09-30,Miami Marlins,New York Mets,24312,R
+2021-10-01,Cincinnati Reds,Pittsburgh Pirates,13582,R
+2021-10-01,Los Angeles Angels,Seattle Mariners,44169,R
+2021-10-01,San Diego Padres,San Francisco Giants,33975,R
+2021-10-01,Chicago Cubs,St. Louis Cardinals,41618,R
+2021-10-01,Cleveland Indians,Texas Rangers,22700,R
+2021-10-01,Baltimore Orioles,Toronto Blue Jays,28855,R
+2021-10-01,New York Mets,Atlanta Braves,32659,R
+2021-10-01,Detroit Tigers,Chicago White Sox,30729,R
+2021-10-01,Philadelphia Phillies,Miami Marlins,8469,R
+2021-10-01,Tampa Bay Rays,New York Yankees,41469,R
+2021-10-01,Colorado Rockies,Arizona Diamondbacks,15189,R
+2021-10-01,Oakland Athletics,Houston Astros,26762,R
+2021-10-01,Minnesota Twins,Kansas City Royals,14293,R
+2021-10-01,Milwaukee Brewers,Los Angeles Dodgers,51388,R
+2021-10-01,Boston Red Sox,Washington Nationals,32521,R
+2021-10-02,Cincinnati Reds,Pittsburgh Pirates,22910,R
+2021-10-02,Los Angeles Angels,Seattle Mariners,44414,R
+2021-10-02,San Diego Padres,San Francisco Giants,40760,R
+2021-10-02,Chicago Cubs,St. Louis Cardinals,45239,R
+2021-10-02,Cleveland Indians,Texas Rangers,27362,R
+2021-10-02,Baltimore Orioles,Toronto Blue Jays,29916,R
+2021-10-02,New York Mets,Atlanta Braves,37616,R
+2021-10-02,Detroit Tigers,Chicago White Sox,36320,R
+2021-10-02,Philadelphia Phillies,Miami Marlins,9655,R
+2021-10-02,Tampa Bay Rays,New York Yankees,41648,R
+2021-10-02,Colorado Rockies,Arizona Diamondbacks,19418,R
+2021-10-02,Oakland Athletics,Houston Astros,29208,R
+2021-10-02,Minnesota Twins,Kansas City Royals,22321,R
+2021-10-02,Milwaukee Brewers,Los Angeles Dodgers,49705,R
+2021-10-02,Boston Red Sox,Washington Nationals,41465,R
+2021-10-03,Cincinnati Reds,Pittsburgh Pirates,13011,R
+2021-10-03,Los Angeles Angels,Seattle Mariners,44229,R
+2021-10-03,San Diego Padres,San Francisco Giants,36901,R
+2021-10-03,Chicago Cubs,St. Louis Cardinals,46525,R
+2021-10-03,Cleveland Indians,Texas Rangers,28396,R
+2021-10-03,Baltimore Orioles,Toronto Blue Jays,29942,R
+2021-10-03,New York Mets,Atlanta Braves,33203,R
+2021-10-03,Detroit Tigers,Chicago White Sox,30722,R
+2021-10-03,Philadelphia Phillies,Miami Marlins,9149,R
+2021-10-03,Tampa Bay Rays,New York Yankees,40409,R
+2021-10-03,Colorado Rockies,Arizona Diamondbacks,12565,R
+2021-10-03,Oakland Athletics,Houston Astros,29752,R
+2021-10-03,Minnesota Twins,Kansas City Royals,17158,R
+2021-10-03,Milwaukee Brewers,Los Angeles Dodgers,43170,R
+2021-10-03,Boston Red Sox,Washington Nationals,33986,R
